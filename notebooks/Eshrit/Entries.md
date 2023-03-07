@@ -29,3 +29,22 @@ Additionally, breadboarding the entire system helped the team to verify that all
 # Date: February 20th
 
 We decided to work on the design document and laid out a plan on how we would use the proposal as a basis and expand on the requirements and verification of the subsystems. In the course of the discussion, we carefully reviewed the current system design, identified areas that required clarification or more development, and discussed the implementation plan. Moreover, we identified potential issues that could arise during the manufacturing process. This comprehensive review allowed us to identify areas for improvement and confirm that the system design was well-documented and comprehended by all team members. This served as a valuable checkpoint regarding lower level understanding of the project. Akash also went over the updates of the PCB schematic. Sumedh, Akash and I at the end of the meeting came up with a more comprehensive division of labor which would be laid out in the schedule subsection of the design document.
+
+
+# Date: February 21st
+
+Hashed out the final editings of the design document, I planned out the schedule and wrote it in the format that was suitable for submission along the lines with what my teammates and I went over in the previous meeting. Followed the plan of expanding the requirements and verification of the subsystems and finished that while concluding the brainstorming from the previous meeting on what verifications would conduct thorough checks for the workings of our subsystems. Prepared the design document for final submission and decided to submit it a day before the deadline.
+
+# Date: February 27th
+
+Conducted a successful design review presentation where my teammates and I went over our design document with the Professors and some TAs. We got valuable feedback about a possible problem where our device could be provided with fake BAC values for a user when the air that they blow into the breathalyzer is not generated with enough pressure so that it comes from the lungs. To tackle this the Professor suggested the addition of a pressure sensor and we decided to go over the feasibility of this addition with the TA.
+
+# Date: March 1st
+
+# Date: February 6th
+
+I picked up the the pressure sensor component and soldered it so that for our next team meeting, we can breadboard it and test to see if it works as expected before we proceed with the manafacturing process.
+
+# Date: March 6th
+
+Went over the setup of the website where users can register their information and how their BAC contents get updated with the latest measurements. Went over the functionality of the user getting a notification to test, testing within intervals setup by us and a  text broadcast in case of a subsystem failure which would indicate that the device is not working currently. This helped us discuss more ideas and features in case of subsystem failures. We also discussed the plan for soldering given the PCB. 
