@@ -26,3 +26,6 @@ We had made plans to breadboard the ordered components and were able to successf
 
 Additionally, breadboarding the entire system helped the team to verify that all the components were correctly interconnected and that the system was working according to the expected standards. By utilizing the expertise of each team member, any problems encountered during testing were effectively addressed to ensure that the system operated as intended.
 
+# Date: February 20th
+
+We decided to work on the design document and laid out a plan on how we would use the proposal as a basis and expand on the requirements and verification of the subsystems. In the course of the discussion, we carefully reviewed the current system design, identified areas that required clarification or more development, and discussed the implementation plan. Moreover, we identified potential issues that could arise during the manufacturing process. This comprehensive review allowed us to identify areas for improvement and confirm that the system design was well-documented and comprehended by all team members. This served as a valuable checkpoint regarding lower level understanding of the project. Akash also went over the updates of the PCB schematic. Sumedh Akash and I at the end of the meeting came up with a more comprehensive division of labor which would be laid out in the schedule of the projec
