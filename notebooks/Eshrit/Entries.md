@@ -41,8 +41,6 @@ Conducted a successful design review presentation where my teammates and I went 
 
 # Date: March 1st
 
-# Date: February 6th
-
 I picked up the the pressure sensor component and soldered it so that for our next team meeting, we can breadboard it and test to see if it works as expected before we proceed with the manafacturing process.
 
 # Date: March 6th
