@@ -17,7 +17,7 @@ We finalised the proposal and made small edits to it in accordance with the form
 
 # Date: February 6th
 
-I picked up the the RFID component and soldered it so that for our team meeting the following day, we can breadboard all components together and test with  to see if they work before we proceed with the manafacturing process.
+I picked up the the RFID component and soldered it so that for our team meeting the following day, we can breadboard all components together and test them to see if they work before we proceed with the manafacturing process.
 
 
 # Date: February 7
