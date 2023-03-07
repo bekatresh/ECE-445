@@ -13,12 +13,16 @@ I carried forth discussions about the real time use cases and issues about devic
 
 # Date: February 3
 
-
 We finalised the proposal and made small edits to it in accordance with the formatting of previous semesters. I assisted with finishing up the block diagram and making the high level requirements be more suitable to the overall success of our project instead of depending on the subsystem workings. We made plans of getting final inputs from the TA and making a submission for the project proposal a day before the deadline.
 
+# Date: February 6th
+
+I picked up the the RFID component and soldered it so that for our team meeting the following day, we can breadboard all components together and test with  to see if they work before we proceed with the manafacturing process.
 
 
+# Date: February 7
 
+We had made plans to breadboard the ordered components and were able to successfully breadboard the complete system design. This step was imperative to test the functionality of the various subsystems and identify any potential issues that needed to be resolved before proceeding with the manufacturing process. Akash made the decision to take the lead on making the PCB schematics with the incorporated parts.
 
-
+Additionally, breadboarding the entire system helped the team to verify that all the components were correctly interconnected and that the system was working according to the expected standards. By utilizing the expertise of each team member, any problems encountered during testing were effectively addressed to ensure that the system operated as intended.
 
