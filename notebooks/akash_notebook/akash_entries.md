@@ -83,3 +83,7 @@ We discussed the plan for soldering the PCB, as well as went over my Arduino and
 We also organized all of the components that were ordered for the PCB, ensuring that they were properly labeled and stored for easy access during the manufacturing process. This helped to streamline the process of assembling the PCB and reduce the risk of errors during manufacturing.
 
 Additionally, we discussed the plan for soldering the PCB, identifying potential issues and developing a plan to mitigate these risks.
+
+# Date: March 7
+Initial note regarding developing PCB with larger resistors, backup dev board.
+
