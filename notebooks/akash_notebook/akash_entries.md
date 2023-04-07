@@ -183,7 +183,7 @@ With the linear relationship now calculated using the SocialStatistics Linear Re
 
 <img src="images/regression.png" alt="Image description" width="30%" height="30%">
 
-# Date March 22
+# Date: March 22
 
 We hosted a second testing party to evaluate the effectiveness of the linear relationship we developed for calibrating our MQ-3 breathalyzer system. Our goal was to assess the accuracy and reliability of our calibrated system by comparing its BAC estimates with the readings from the commercial breathalyzer.
 
@@ -195,8 +195,13 @@ Next, we compared the estimated BAC levels from our MQ-3 breathalyzer system wit
 
 This is a truncated image of our testing data.
 
+# Date: March 23
 
+Today marks an exciting milestone for our project, as the PCB we ordered has finally arrived. With all the components in hand, we are now ready to proceed with the assembly and soldering process, bringing us one step closer to completing our breathalyzer system.
 
+To streamline the soldering process and make it as efficient as possible, I took the initiative to carefully separate and organize the resistors and capacitors. By sorting them according to their values and clearly labeling each group, I made it easy for my partners to quickly identify and locate the correct components during the soldering process. This organization will not only save time but also minimize the risk of errors that may result from using incorrect components.
+
+<img src="images/pcb_larger_arrived.png" alt="Image description" width="75%" height="75%">
 
 
 
