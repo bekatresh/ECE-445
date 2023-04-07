@@ -114,7 +114,7 @@ I carefully calculated the required values for the resistors and capacitors, ens
 
 Once the design was finalized, I exported the Gerber files and shared them with the team for review. We will soon order the updated PCB and through-hole components, confident that this new design will lead to a smoother manufacturing process and ultimately a more reliable end product.
 
-<img src="images/pcb_connections_v2.png" alt="Image description" width="50%" height="50%">
+<img src="images/pcb_connections_v2.png" alt="Image description" width="80%" height="80%">
 
 
 # Date: March 10
@@ -132,7 +132,7 @@ Today, in our pursuit to improve the accuracy and reliability of our MQ-3 breath
 Upon receiving the commercial breathalyzer, we plan to conduct a series of tests and comparisons between the two devices. This will enable us to better understand the relationship between the BAC readings and the MQ-3 output values, allowing us to calibrate our sensor more accurately.
 
 
-<img src="images/breathalyzer_amazon.png" alt="Image description" width="30%" height="30%">
+<img src="images/breathalyzer_amazon.png" alt="Image description" width="50%" height="50%">
 
 
 # Date: March 20
