@@ -234,9 +234,26 @@ To streamline the soldering process and make it as efficient as possible, I took
 
 *New, printed PCB*
 
+# Date: March 28th
+
+Today, our team had a productive meeting with our TA to discuss the challenges and best practices associated with soldering small SMD (Surface Mount Device) components onto the PCB. As these components are significantly smaller and more delicate than their through-hole counterparts, they require a higher level of precision and expertise during the soldering process.
 
 
+# Date: April 1st
+I made significant progress in developing the software component of our breathalyzer system by incorporating the linear relationship we established earlier into the Python code. This integration allows our MQ-3 sensor-based breathalyzer system to provide accurate BAC estimates, which are crucial for its overall reliability and functionality.
 
+After applying the linear relationship to the MQ-3 sensor output values within the Python code, I proceeded to add a new feature to enhance the user experience of our system. I incorporated the ability for the host to input their phone number, which will enable the breathalyzer system to send relevant information and alerts directly to the host's mobile device. This feature ensures that the host stays informed and can take appropriate action when needed, contributing to the overall safety and effectiveness of our system.
+
+In addition to the phone number input feature, I also developed a settings page for our breathalyzer system. This page allows the host to easily access and adjust various settings, such as calibration parameters, alert thresholds, and notification preferences. The settings page provides a convenient and user-friendly interface, making it simple for the host to customize the system according to their specific requirements and preferences.
+
+![](images/settings_page.png){ width=250px }
+
+*Settings page*
+
+
+![](images/homepage_v2.png){ width=250px }
+
+*New home page*
 
 
 
