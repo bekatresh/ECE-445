@@ -113,4 +113,19 @@ I carefully calculated the required values for the resistors and capacitors, ens
 
 Once the design was finalized, I exported the Gerber files and shared them with the team for review. We will soon order the updated PCB and through-hole components, confident that this new design will lead to a smoother manufacturing process and ultimately a more reliable end product.
 
+![](images/pcb_connections_v2.png)
+
+# Date: March 10
+We took an essential step forward in our project by ordering the newly redesigned PCB with through-hole resistors and capacitors. After reviewing the updated Gerber files and ensuring that all necessary adjustments had been made to accommodate the through-hole components, we felt confident in proceeding with the order. Overall, our team is eager to receive the new PCBs and begin the next phase of our project. We are optimistic that the redesign will make a positive impact on the ease of assembly and the performance of the final product.
+
+# Date March 14
+Today, our team held a productive meeting to discuss the Design Document and address any potential limitations in our project. Alongside our TA, we examined various aspects of our design and explored ways to improve the overall functionality and performance of the final product.
+
+During the discussion, we came up with the idea of incorporating a pressure sensor into our design in order to determine if a user is actually breathing into the breathalyzer. We discussed different ways of incporating it, and my team decided to conduct numerous tests in the future to determine the capability.
+
+# Date March 21
+
+
+
+
 
