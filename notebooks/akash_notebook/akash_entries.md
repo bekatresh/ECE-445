@@ -98,5 +98,19 @@ Additionally, we discussed the plan for soldering the PCB, identifying potential
 
 # Date: March 7
 
-Initial note regarding developing PCB with larger resistors, backup dev board.
+My teammates attempted to solder the PCB, which proved to be quite challenging due to the incredibly small size of the surface-mount resistors. Despite our best efforts, they found themslves unable to solder them accurately and securely, which led us to the realization that we needed to reevaluate our approach. 
+
+After some deliberation, I decided I would go ahead andredesign the PCB using through-hole resistors and capacitors instead of surface-mount components. This change would make the soldering process significantly more manageable for our team, as through-hole components are easier to handle and solder in place. Furthermore, this adjustment would reduce the likelihood of errors and improve the overall reliability of the final product.
+
+In the coming days, I will work on finalizing the new PCB design and ordering the necessary through-hole components. I hope that this decision will streamline the manufacturing process and ultimately lead to a more successful outcome for our project.
+
+# Date: March 9
+Today marked a significant milestone in our project, as I successfully completed the redesign of our PCB to incorporate through-hole resistors and capacitors. This decision was made to address the challenges we faced while attempting to solder the surface-mount components, which proved to be too small for our team's skill level.
+
+The new PCB design features well-organized through-hole components, strategically placed to optimize both the ease of assembly and the overall performance of the final product. The resistors and capacitors are now more accessible, allowing for a more straightforward soldering process and reducing the likelihood of errors during assembly.
+
+I carefully calculated the required values for the resistors and capacitors, ensuring that they met the specifications of our project, and selected components with suitable power ratings and tolerances. To further streamline the assembly process, I also made sure to label each component on the PCB layout, making it easy for the team to identify and place them correctly.
+
+Once the design was finalized, I exported the Gerber files and shared them with the team for review. We will soon order the updated PCB and through-hole components, confident that this new design will lead to a smoother manufacturing process and ultimately a more reliable end product.
+
 
