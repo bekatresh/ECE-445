@@ -190,8 +190,7 @@ Analyzing MQ-3 value changes to detect breathing: Our final approach involved ex
 
 As a result, the team has decided to move forward with the project without incorporating the pressure sensor.
 
-
-![](images/pressure_sensor.png){ width=150px }
+<img src="images/pressure_sensor.png" alt="Image description" width="30%" height="30%">
 
 *Pressure sensor we are using*
 
@@ -208,7 +207,7 @@ The calculator performed the regression analysis for us, determining the best-fi
 
 With the linear relationship now calculated using the SocialStatistics Linear Regression Calculator, we are well-equipped to move forward with the calibration of our MQ-3 breathalyzer system. We will soon test its effectiveness during a secondary testing party, which will allow us to assess the accuracy and reliability of the linear relationship we've established and make any necessary adjustments to our system.
 
-![](images/regression.png){ width=200px }
+<img src="images/regression.png" alt="Image description" width="30%" height="30%">
 
 *Output from linear regression calculator*
 
@@ -221,7 +220,7 @@ With a group of participants, we conducted a series of tests during which each i
 
 Next, we compared the estimated BAC levels from our MQ-3 breathalyzer system with the actual BAC readings from the commercial breathalyzer. This side-by-side comparison provided us with valuable insights into the performance and accuracy of our calibrated system.
 
-![](images/testing_truncated.png){ width=200px }
+<img src="images/testing_truncated.png" alt="Image description" width="30%" height="30%">
 
 *Truncated image of our testing data*
 
@@ -231,7 +230,7 @@ Today marks an exciting milestone for our project, as the PCB we ordered has fin
 
 To streamline the soldering process and make it as efficient as possible, I took the initiative to carefully separate and organize the resistors and capacitors. By sorting them according to their values and clearly labeling each group, I made it easy for my partners to quickly identify and locate the correct components during the soldering process. This organization will not only save time but also minimize the risk of errors that may result from using incorrect components.
 
-![](images/pcb_larger_arrived.png){ width=400px }
+<img src="images/pcb_larger_arrived.png" alt="Image description" width="75%" height="75%">
 
 *New, printed PCB*
 
