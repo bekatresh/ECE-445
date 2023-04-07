@@ -75,6 +75,8 @@ The Arduino code that I wrote included logic for reading data from the MQ-3 and 
 
 The successful implementation of the Arduino code for the MQ-3 and RFID sensors, with the added functionality of sending post requests to a webserver, was a significant accomplishment in the TipsyTracker development process. My contribution to this milestone helped to move the project forward, and we are now one step closer to achieving our goal of creating an effective and reliable system for monitoring alcohol consumption.
 
+![](arduino_code.png)
+
 # Date: March 5
 
 I revamped the Python code to incorporate a web portal that allows for adding entries, viewing user history, and sending text messages about the BAC levels using Twilio. This was a crucial step in the development process as it allowed us to test the functionality of the web portal and ensure that it was operating as intended.
@@ -85,6 +87,8 @@ Additionally, the code includes functionality for storing user history (during t
 
 The successful implementation of the revamped Python code was a significant accomplishment in the TipsyTracker development process. By incorporating a user-friendly web portal and Twilio integration, the system is now more effective and easier to use than ever before. 
 
+![](web_portal_v1.png)
+
 # Date: March 6
 We discussed the plan for soldering the PCB, as well as went over my Arduino and Python code. This was an important step in the development process as it allowed us to prepare for the manufacturing phase and ensure that the code was properly reviewed and tested.
 
@@ -93,5 +97,6 @@ We also organized all of the components that were ordered for the PCB, ensuring 
 Additionally, we discussed the plan for soldering the PCB, identifying potential issues and developing a plan to mitigate these risks.
 
 # Date: March 7
+
 Initial note regarding developing PCB with larger resistors, backup dev board.
 
