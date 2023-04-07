@@ -141,6 +141,9 @@ Each participant was asked to use both devices and record the values outputted b
 
 Once we have analyzed the data and established the correlation, we plan to test the effectiveness of our calibration method during a secondary testing party. This follow-up event will provide us with the opportunity to evaluate the performance of our MQ-3 breathalyzer system under real-world conditions and assess the accuracy of our calibration process.
 
+![](images/training_truncated.png)
+
+This is a truncated image of our data.
 
 
 # Date: March 21
@@ -158,6 +161,10 @@ Analyzing MQ-3 value changes to detect breathing: Our final approach involved ex
 As a result, the team has decided to move forward with the project without incorporating the pressure sensor.
 
 ![](images/pressure_sensor.png)
+
+# Date: March 21
+
+
 
 
 
