@@ -246,12 +246,12 @@ After applying the linear relationship to the MQ-3 sensor output values within t
 
 In addition to the phone number input feature, I also developed a settings page for our breathalyzer system. This page allows the host to easily access and adjust various settings, such as calibration parameters, alert thresholds, and notification preferences. The settings page provides a convenient and user-friendly interface, making it simple for the host to customize the system according to their specific requirements and preferences.
 
-![](images/settings_page.png){ width=250px }
+![](images/settings_page.png)
 
 *Settings page*
 
 
-![](images/homepage_v2.png){ width=250px }
+![](images/homepage_v2.png)
 
 *New home page*
 
