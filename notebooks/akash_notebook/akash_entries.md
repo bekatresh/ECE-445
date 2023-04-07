@@ -118,12 +118,12 @@ Once the design was finalized, I exported the Gerber files and shared them with 
 # Date: March 10
 We took an essential step forward in our project by ordering the newly redesigned PCB with through-hole resistors and capacitors. After reviewing the updated Gerber files and ensuring that all necessary adjustments had been made to accommodate the through-hole components, we felt confident in proceeding with the order. Overall, our team is eager to receive the new PCBs and begin the next phase of our project. We are optimistic that the redesign will make a positive impact on the ease of assembly and the performance of the final product.
 
-# Date March 14
+# Date: March 14
 Today, our team held a productive meeting to discuss the Design Document and address any potential limitations in our project. Alongside our TA, we examined various aspects of our design and explored ways to improve the overall functionality and performance of the final product.
 
 During the discussion, we came up with the idea of incorporating a pressure sensor into our design in order to determine if a user is actually breathing into the breathalyzer. We discussed different ways of incporating it, and my team decided to conduct numerous tests in the future to determine the capability.
 
-# Date March 16
+# Date: March 16
 
 Today, in our pursuit to improve the accuracy and reliability of our MQ-3 breathalyzer sensor, I placed an order for a commercial breathalyzer from Amazon. The primary motivation behind this purchase is to create a correlation between Blood Alcohol Content (BAC) readings from the commercial breathalyzer and the output of our MQ-3 sensor.
 
@@ -132,7 +132,7 @@ Upon receiving the commercial breathalyzer, we plan to conduct a series of tests
 ![](images/breathalyzer_amazon.png)
 
 
-# Date March 21
+# Date: March 21
 
 Today, our team set out to determine the most effective way to ensure that someone is breathing into the MQ-3 breathalyzer sensor with the correct amount of pressure. This is crucial for obtaining accurate readings and maintaining the reliability of our system. We explored and tested four potential methods to achieve this goal, but unfortunately, each one failed to produce the desired results:
 
