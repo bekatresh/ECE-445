@@ -23,6 +23,8 @@ On February 7th, the TipsyTracker development team made significant progress by 
 
 Breadboarding the entire system also allowed the team to ensure that all components were properly connected and that the system was functioning as expected. By leveraging the expertise of each team member, we were able to address any issues that arose during testing and ensure that the system was operating as intended.
 
+![](breadboard.png)
+
 
 # Date: February 13
 I am pleased to report that during the development of the TipsyTracker system, I was able to make significant progress on the Printed Circuit Board (PCB) schematic. Specifically, I was able to complete the first schematic for the PCB, which included important components such as the power input, 5V to 3.3V regulator, USB-to-UART converter, MQ-3 sensor, RFID sensors, and other key parts.
@@ -33,6 +35,8 @@ The MQ-3 sensor and RFID sensors were also critical components that allowed the 
 
 Overall, the completion of the first schematic for the PCB was a significant milestone in the development of the TipsyTracker system. By leveraging my skills in PCB design and component selection, I was able to ensure that the system was well-designed and capable of meeting the requirements of the project.
 
+![](pcb_schematic.png)
+
 # Date: February 15
 I was able to make significant progress on the Printed Circuit Board (PCB) modeling and connections. Specifically, I was able to complete the modeling and line drawing of the PCB, which was a critical step in the development of the device.
 
@@ -41,6 +45,8 @@ The modeling and connections of the PCB were important because they enabled the 
 I helped to identify any potential issues or conflicts with the design, allowing the team to make any necessary adjustments before moving forward with the manufacturing process. This ensured that the device would function properly and meet the requirements of the project.
 
 Overall, the completion of the first version of the PCB was a significant milestone in the development of the TipsyTracker system.
+
+![](pcb_connections.png)
 
 # Date: February 20
 On February 20th, we started a discussion on the design document for the TipsyTracker system. This was an important step in the development process as it allowed us to ensure that all team members were on the same page regarding the system design and implementation.
