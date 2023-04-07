@@ -87,7 +87,8 @@ Additionally, the code includes functionality for storing user history (during t
 
 The successful implementation of the revamped Python code was a significant accomplishment in the TipsyTracker development process. By incorporating a user-friendly web portal and Twilio integration, the system is now more effective and easier to use than ever before. 
 
-![](images/web_portal_v1.png)
+<img src="images/web_portal_v1.png" alt="Image description" width="30%" height="30%">
+
 
 # Date: March 6
 We discussed the plan for soldering the PCB, as well as went over my Arduino and Python code. This was an important step in the development process as it allowed us to prepare for the manufacturing phase and ensure that the code was properly reviewed and tested.
@@ -113,7 +114,8 @@ I carefully calculated the required values for the resistors and capacitors, ens
 
 Once the design was finalized, I exported the Gerber files and shared them with the team for review. We will soon order the updated PCB and through-hole components, confident that this new design will lead to a smoother manufacturing process and ultimately a more reliable end product.
 
-![](images/pcb_connections_v2.png)
+<img src="images/pcb_connections_v2.png" alt="Image description" width="50%" height="50%">
+
 
 # Date: March 10
 We took an essential step forward in our project by ordering the newly redesigned PCB with through-hole resistors and capacitors. After reviewing the updated Gerber files and ensuring that all necessary adjustments had been made to accommodate the through-hole components, we felt confident in proceeding with the order. Overall, our team is eager to receive the new PCBs and begin the next phase of our project. We are optimistic that the redesign will make a positive impact on the ease of assembly and the performance of the final product.
@@ -129,7 +131,9 @@ Today, in our pursuit to improve the accuracy and reliability of our MQ-3 breath
 
 Upon receiving the commercial breathalyzer, we plan to conduct a series of tests and comparisons between the two devices. This will enable us to better understand the relationship between the BAC readings and the MQ-3 output values, allowing us to calibrate our sensor more accurately.
 
-![](images/breathalyzer_amazon.png)
+
+<img src="images/breathalyzer_amazon.png" alt="Image description" width="30%" height="30%">
+
 
 # Date: March 20
 
