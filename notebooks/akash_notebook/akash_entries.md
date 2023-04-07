@@ -147,7 +147,7 @@ Once we have analyzed the data and established the correlation, we plan to test 
 
 <img src="images/training_truncated.png" alt="Image description" width="20%" height="20%">
 
-This is a truncated image of our data.
+This is a truncated image of our training data.
 
 
 # Date: March 21
@@ -164,7 +164,9 @@ Analyzing MQ-3 value changes to detect breathing: Our final approach involved ex
 
 As a result, the team has decided to move forward with the project without incorporating the pressure sensor.
 
-![](images/pressure_sensor.png)
+
+<img src="images/pressure_sensor.png" alt="Image description" width="50%" height="50%">
+
 
 # Date: March 21
 
@@ -189,6 +191,9 @@ With a group of participants, we conducted a series of tests during which each i
 Next, we compared the estimated BAC levels from our MQ-3 breathalyzer system with the actual BAC readings from the commercial breathalyzer. This side-by-side comparison provided us with valuable insights into the performance and accuracy of our calibrated system.
 
 <img src="images/testing_truncated.png" alt="Image description" width="20%" height="20%">
+
+This is a truncated image of our testing data.
+
 
 
 
