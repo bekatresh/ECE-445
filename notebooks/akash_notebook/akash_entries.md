@@ -178,7 +178,7 @@ The calculator performed the regression analysis for us, determining the best-fi
 
 With the linear relationship now calculated using the SocialStatistics Linear Regression Calculator, we are well-equipped to move forward with the calibration of our MQ-3 breathalyzer system. We will soon test its effectiveness during a secondary testing party, which will allow us to assess the accuracy and reliability of the linear relationship we've established and make any necessary adjustments to our system.
 
-<img src="images/regression.png" alt="Image description" width="50%" height="50%">
+<img src="images/regression.png" alt="Image description" width="30%" height="30%">
 
 
 
