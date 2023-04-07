@@ -168,6 +168,19 @@ As a result, the team has decided to move forward with the project without incor
 
 # Date: March 21
 
+Today, our team focused on calculating the linear relationship between the MQ-3 sensor output values and the commercial breathalyzer BAC readings, using the training data we gathered during the initial testing party. This relationship is crucial for calibrating our MQ-3 breathalyzer system and ensuring its accuracy and reliability.
+
+To calculate the linear relationship, we decided to use an online Linear Regression Calculator provided by SocialStatistics, a user-friendly tool that streamlines the process of finding the best-fitting linear equation to represent the relationship between two sets of values.
+
+We started by organizing the data in a spreadsheet, listing the output values of the MQ-3 sensor alongside the corresponding BAC readings from the commercial breathalyzer. We then inputted the data into the SocialStatistics Linear Regression Calculator, following the instructions provided on the website.
+
+The calculator performed the regression analysis for us, determining the best-fitting linear equation that accurately represented the relationship between the MQ-3 sensor values and the commercial breathalyzer BAC readings. The resulting equation provided us with the slope and intercept values necessary to calculate BAC estimates based on the output of our MQ-3 sensor.
+
+With the linear relationship now calculated using the SocialStatistics Linear Regression Calculator, we are well-equipped to move forward with the calibration of our MQ-3 breathalyzer system. We will soon test its effectiveness during a secondary testing party, which will allow us to assess the accuracy and reliability of the linear relationship we've established and make any necessary adjustments to our system.
+
+<img src="images/regression.png" alt="Image description" width="50%" height="50%">
+
+
 
 
 
