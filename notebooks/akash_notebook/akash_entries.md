@@ -1,7 +1,14 @@
+# Akash Patel Lab Notebook
+# ECE 445
+
 # Date: January 29
 For the TipsyTracker Project Proposal, our group worked together closely to develop the block diagram that included the RFID subsystem, Breathalyzer measurement subsystem, and Data management subsystem. We had multiple brainstorming sessions where we shared our ideas, discussed the feasibility of different approaches, and evaluated the pros and cons of each subsystem.
 
 We all shared our expertise and worked together to ensure that the different subsystems complemented each other and functioned effectively in the overall system. Each team member had a specific role to play, and we ensured that everyone had a clear understanding of their responsibilities.
+
+![](images/block_diagram.png)
+*Snapshot of block diagram*
+
 
 # Date: February 1
 Our group identified the problem of irresponsible drinking, which is a common issue, especially among university students, that leads to significant negative consequences, including deaths caused by excessive alcohol consumption. Our solution, TipsyTracker, is a comprehensive system that employs RFID-enabled wristbands/cards, breathalyzer devices, a Raspberry Pi server, and an ESP32 microcontroller to measure the blood alcohol content (BAC) levels of partygoers/patrons and encourage responsible drinking habits. TipsyTracker notifies guests about their BAC levels and sends reminders to them to check their levels, as well as alerts the host if a guest's BAC level exceeds a predetermined limit.
@@ -102,6 +109,7 @@ The successful implementation of the revamped Python code was a significant acco
 
 <img src="images/web_portal_v1.png" alt="Image description" width="30%" height="30%">
 
+
 *Version 1 of Web Portal*
 
 
@@ -183,7 +191,7 @@ Analyzing MQ-3 value changes to detect breathing: Our final approach involved ex
 As a result, the team has decided to move forward with the project without incorporating the pressure sensor.
 
 
-<img src="images/pressure_sensor.png" alt="Image description" width="40%" height="40%">
+![](images/pressure_sensor.png){ width=150px }
 
 *Pressure sensor we are using*
 
@@ -200,7 +208,7 @@ The calculator performed the regression analysis for us, determining the best-fi
 
 With the linear relationship now calculated using the SocialStatistics Linear Regression Calculator, we are well-equipped to move forward with the calibration of our MQ-3 breathalyzer system. We will soon test its effectiveness during a secondary testing party, which will allow us to assess the accuracy and reliability of the linear relationship we've established and make any necessary adjustments to our system.
 
-<img src="images/regression.png" alt="Image description" width="30%" height="30%">
+![](images/regression.png){ width=200px }
 
 *Output from linear regression calculator*
 
@@ -213,7 +221,7 @@ With a group of participants, we conducted a series of tests during which each i
 
 Next, we compared the estimated BAC levels from our MQ-3 breathalyzer system with the actual BAC readings from the commercial breathalyzer. This side-by-side comparison provided us with valuable insights into the performance and accuracy of our calibrated system.
 
-<img src="images/testing_truncated.png" alt="Image description" width="20%" height="20%">
+![](images/testing_truncated.png){ width=200px }
 
 *Truncated image of our testing data*
 
@@ -223,7 +231,7 @@ Today marks an exciting milestone for our project, as the PCB we ordered has fin
 
 To streamline the soldering process and make it as efficient as possible, I took the initiative to carefully separate and organize the resistors and capacitors. By sorting them according to their values and clearly labeling each group, I made it easy for my partners to quickly identify and locate the correct components during the soldering process. This organization will not only save time but also minimize the risk of errors that may result from using incorrect components.
 
-<img src="images/pcb_larger_arrived.png" alt="Image description" width="50%" height="50%">
+![](images/pcb_larger_arrived.png){ width=400px }
 
 *New, printed PCB*
 
