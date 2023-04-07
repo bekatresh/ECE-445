@@ -234,12 +234,12 @@ To streamline the soldering process and make it as efficient as possible, I took
 
 *New, printed PCB*
 
-# Date: March 28th
+# Date: March 28
 
 Today, our team had a productive meeting with our TA to discuss the challenges and best practices associated with soldering small SMD (Surface Mount Device) components onto the PCB. As these components are significantly smaller and more delicate than their through-hole counterparts, they require a higher level of precision and expertise during the soldering process.
 
 
-# Date: April 1st
+# Date: April 1
 I made significant progress in developing the software component of our breathalyzer system by incorporating the linear relationship we established earlier into the Python code. This integration allows our MQ-3 sensor-based breathalyzer system to provide accurate BAC estimates, which are crucial for its overall reliability and functionality.
 
 After applying the linear relationship to the MQ-3 sensor output values within the Python code, I proceeded to add a new feature to enhance the user experience of our system. I incorporated the ability for the host to input their phone number, which will enable the breathalyzer system to send relevant information and alerts directly to the host's mobile device. This feature ensures that the host stays informed and can take appropriate action when needed, contributing to the overall safety and effectiveness of our system.
@@ -256,6 +256,21 @@ In addition to the phone number input feature, I also developed a settings page 
 *New home page*
 
 
+# Date: April 2
+Today, I focused on adapting our breathalyzer system's Python code to accommodate shorter timestamps, specifically for an upcoming demo presentation. This modification is crucial to ensure that our system performs efficiently and effectively during the demonstration, allowing us to showcase its full potential to the audience.
 
+To achieve this, I carefully reviewed the existing code, identifying the sections that controlled the time intervals and the data collection process. I then changed them accordingly.
+
+# Date: April 4
+
+After a recent team discussion, we concluded that it would be prudent to create a backup PCB that utilizes the development board, ensuring that we have a reliable fallback option in case our primary breathalyzer system encounters any issues. With the team's agreement, I took on the responsibility of designing the schematic and layout for the backup PCB that integrates the development board. This involved carefully considering the circuitry, component placement, and routing, ensuring that the design was both functional and efficient. I also made sure to include all the necessary connections and interfaces for the development board, allowing for seamless integration with the breathalyzer system's software and sensor components.
+
+![](images/devboard_schematic.png)
+
+*Schematic for dev board*
+
+![](images/devboard_layout.png)
+
+*Layout for dev board*
 
 
