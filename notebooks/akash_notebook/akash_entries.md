@@ -201,7 +201,7 @@ Today marks an exciting milestone for our project, as the PCB we ordered has fin
 
 To streamline the soldering process and make it as efficient as possible, I took the initiative to carefully separate and organize the resistors and capacitors. By sorting them according to their values and clearly labeling each group, I made it easy for my partners to quickly identify and locate the correct components during the soldering process. This organization will not only save time but also minimize the risk of errors that may result from using incorrect components.
 
-<img src="images/pcb_larger_arrived.png" alt="Image description" width="75%" height="75%">
+<img src="images/pcb_larger_arrived.png" alt="Image description" width="50%" height="50%">
 
 
 
