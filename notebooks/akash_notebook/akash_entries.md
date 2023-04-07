@@ -165,7 +165,7 @@ Analyzing MQ-3 value changes to detect breathing: Our final approach involved ex
 As a result, the team has decided to move forward with the project without incorporating the pressure sensor.
 
 
-<img src="images/pressure_sensor.png" alt="Image description" width="50%" height="50%">
+<img src="images/pressure_sensor.png" alt="Image description" width="20%" height="20%">
 
 
 # Date: March 21
