@@ -265,11 +265,12 @@ To achieve this, I carefully reviewed the existing code, identifying the section
 
 After a recent team discussion, we concluded that it would be prudent to create a backup PCB that utilizes the development board, ensuring that we have a reliable fallback option in case our primary breathalyzer system encounters any issues. With the team's agreement, I took on the responsibility of designing the schematic and layout for the backup PCB that integrates the development board. This involved carefully considering the circuitry, component placement, and routing, ensuring that the design was both functional and efficient. I also made sure to include all the necessary connections and interfaces for the development board, allowing for seamless integration with the breathalyzer system's software and sensor components.
 
-![](images/devboard_schematic.png)
+<img src="images/devboard_schematic.png" alt="Image description" width="50%" height="50%">
+
 
 *Schematic for dev board*
 
-![](images/devboard_layout.png)
+<img src="images/devboard_layout.png" alt="Image description" width="50%" height="50%">
 
 *Layout for dev board*
 
