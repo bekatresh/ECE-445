@@ -76,6 +76,7 @@ The Arduino code that I wrote included logic for reading data from the MQ-3 and 
 The successful implementation of the Arduino code for the MQ-3 and RFID sensors, with the added functionality of sending post requests to a webserver, was a significant accomplishment in the TipsyTracker development process. My contribution to this milestone helped to move the project forward, and we are now one step closer to achieving our goal of creating an effective and reliable system for monitoring alcohol consumption.
 
 ![](images/arduino_code.png)
+*Compilation of arduino code
 
 # Date: March 5
 
@@ -88,6 +89,7 @@ Additionally, the code includes functionality for storing user history (during t
 The successful implementation of the revamped Python code was a significant accomplishment in the TipsyTracker development process. By incorporating a user-friendly web portal and Twilio integration, the system is now more effective and easier to use than ever before. 
 
 <img src="images/web_portal_v1.png" alt="Image description" width="30%" height="30%">
+*Version 1 of Web Portal
 
 
 # Date: March 6
@@ -115,6 +117,7 @@ I carefully calculated the required values for the resistors and capacitors, ens
 Once the design was finalized, I exported the Gerber files and shared them with the team for review. We will soon order the updated PCB and through-hole components, confident that this new design will lead to a smoother manufacturing process and ultimately a more reliable end product.
 
 <img src="images/pcb_connections_v2.png" alt="Image description" width="80%" height="80%">
+*New PCB connections
 
 
 # Date: March 10
@@ -133,7 +136,7 @@ Upon receiving the commercial breathalyzer, we plan to conduct a series of tests
 
 
 <img src="images/breathalyzer_amazon.png" alt="Image description" width="50%" height="50%">
-
+*Image of the breathalyzer ordered
 
 # Date: March 20
 
@@ -147,7 +150,7 @@ Once we have analyzed the data and established the correlation, we plan to test 
 
 <img src="images/training_truncated.png" alt="Image description" width="20%" height="20%">
 
-This is a truncated image of our training data.
+*This is a truncated image of our training data.
 
 
 # Date: March 21
