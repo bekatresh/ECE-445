@@ -15,7 +15,7 @@ During the development of the TipsyTracker project proposal, I assisted the grou
 
 In addition to editing the proposal, I also drew a visual aid to help illustrate the system architecture and explain how the different subsystems interacted with each other. The visual aid helped to clarify the system design and made it easier for team members to understand the overall concept of the TipsyTracker system.
 
-![](visual_aid.png)
+![](images/visual_aid.png)
 
 # Date: February 7
 
@@ -23,7 +23,7 @@ On February 7th, the TipsyTracker development team made significant progress by 
 
 Breadboarding the entire system also allowed the team to ensure that all components were properly connected and that the system was functioning as expected. By leveraging the expertise of each team member, we were able to address any issues that arose during testing and ensure that the system was operating as intended.
 
-![](breadboard.png)
+![](images/breadboard.png)
 
 
 # Date: February 13
@@ -35,7 +35,7 @@ The MQ-3 sensor and RFID sensors were also critical components that allowed the 
 
 Overall, the completion of the first schematic for the PCB was a significant milestone in the development of the TipsyTracker system. By leveraging my skills in PCB design and component selection, I was able to ensure that the system was well-designed and capable of meeting the requirements of the project.
 
-![](pcb_schematic.png)
+![](images/pcb_schematic.png)
 
 # Date: February 15
 I was able to make significant progress on the Printed Circuit Board (PCB) modeling and connections. Specifically, I was able to complete the modeling and line drawing of the PCB, which was a critical step in the development of the device.
@@ -46,7 +46,7 @@ I helped to identify any potential issues or conflicts with the design, allowing
 
 Overall, the completion of the first version of the PCB was a significant milestone in the development of the TipsyTracker system.
 
-![](pcb_connections.png)
+![](images/pcb_connections.png)
 
 # Date: February 20
 On February 20th, we started a discussion on the design document for the TipsyTracker system. This was an important step in the development process as it allowed us to ensure that all team members were on the same page regarding the system design and implementation.
@@ -75,7 +75,7 @@ The Arduino code that I wrote included logic for reading data from the MQ-3 and 
 
 The successful implementation of the Arduino code for the MQ-3 and RFID sensors, with the added functionality of sending post requests to a webserver, was a significant accomplishment in the TipsyTracker development process. My contribution to this milestone helped to move the project forward, and we are now one step closer to achieving our goal of creating an effective and reliable system for monitoring alcohol consumption.
 
-![](arduino_code.png)
+![](images/arduino_code.png)
 
 # Date: March 5
 
@@ -87,7 +87,7 @@ Additionally, the code includes functionality for storing user history (during t
 
 The successful implementation of the revamped Python code was a significant accomplishment in the TipsyTracker development process. By incorporating a user-friendly web portal and Twilio integration, the system is now more effective and easier to use than ever before. 
 
-![](web_portal_v1.png)
+![](images/web_portal_v1.png)
 
 # Date: March 6
 We discussed the plan for soldering the PCB, as well as went over my Arduino and Python code. This was an important step in the development process as it allowed us to prepare for the manufacturing phase and ensure that the code was properly reviewed and tested.
