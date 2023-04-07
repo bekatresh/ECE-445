@@ -168,7 +168,7 @@ As a result, the team has decided to move forward with the project without incor
 
 # Date: March 21
 
-Today, our team focused on calculating the linear relationship between the MQ-3 sensor output values and the commercial breathalyzer BAC readings, using the training data we gathered during the initial testing party. This relationship is crucial for calibrating our MQ-3 breathalyzer system and ensuring its accuracy and reliability.
+Today, our team also focused on calculating the linear relationship between the MQ-3 sensor output values and the commercial breathalyzer BAC readings, using the training data we gathered during the initial testing party. This relationship is crucial for calibrating our MQ-3 breathalyzer system and ensuring its accuracy and reliability.
 
 To calculate the linear relationship, we decided to use an online Linear Regression Calculator provided by SocialStatistics, a user-friendly tool that streamlines the process of finding the best-fitting linear equation to represent the relationship between two sets of values.
 
@@ -180,6 +180,15 @@ With the linear relationship now calculated using the SocialStatistics Linear Re
 
 <img src="images/regression.png" alt="Image description" width="30%" height="30%">
 
+# Date March 22
+
+We hosted a second testing party to evaluate the effectiveness of the linear relationship we developed for calibrating our MQ-3 breathalyzer system. Our goal was to assess the accuracy and reliability of our calibrated system by comparing its BAC estimates with the readings from the commercial breathalyzer.
+
+With a group of participants, we conducted a series of tests during which each individual used both our MQ-3 breathalyzer system and the commercial breathalyzer. For the MQ-3 sensor, we took the output values and applied the linear relationship we previously calculated using the SocialStatistics Linear Regression Calculator. This allowed us to obtain estimated BAC levels based on the MQ-3 sensor's output.
+
+Next, we compared the estimated BAC levels from our MQ-3 breathalyzer system with the actual BAC readings from the commercial breathalyzer. This side-by-side comparison provided us with valuable insights into the performance and accuracy of our calibrated system.
+
+<img src="images/testing_truncated.png" alt="Image description" width="20%" height="20%">
 
 
 
