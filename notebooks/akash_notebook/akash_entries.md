@@ -76,7 +76,7 @@ The Arduino code that I wrote included logic for reading data from the MQ-3 and 
 The successful implementation of the Arduino code for the MQ-3 and RFID sensors, with the added functionality of sending post requests to a webserver, was a significant accomplishment in the TipsyTracker development process. My contribution to this milestone helped to move the project forward, and we are now one step closer to achieving our goal of creating an effective and reliable system for monitoring alcohol consumption.
 
 ![](images/arduino_code.png)
-*Compilation of arduino code
+*Compilation of arduino code*
 
 # Date: March 5
 
@@ -89,7 +89,7 @@ Additionally, the code includes functionality for storing user history (during t
 The successful implementation of the revamped Python code was a significant accomplishment in the TipsyTracker development process. By incorporating a user-friendly web portal and Twilio integration, the system is now more effective and easier to use than ever before. 
 
 <img src="images/web_portal_v1.png" alt="Image description" width="30%" height="30%">
-*Version 1 of Web Portal
+*Version 1 of Web Portal*
 
 
 # Date: March 6
@@ -117,7 +117,7 @@ I carefully calculated the required values for the resistors and capacitors, ens
 Once the design was finalized, I exported the Gerber files and shared them with the team for review. We will soon order the updated PCB and through-hole components, confident that this new design will lead to a smoother manufacturing process and ultimately a more reliable end product.
 
 <img src="images/pcb_connections_v2.png" alt="Image description" width="80%" height="80%">
-*New PCB connections
+*New PCB connections*
 
 
 # Date: March 10
@@ -136,7 +136,7 @@ Upon receiving the commercial breathalyzer, we plan to conduct a series of tests
 
 
 <img src="images/breathalyzer_amazon.png" alt="Image description" width="50%" height="50%">
-*Image of the breathalyzer ordered
+*Breathalyzer ordered*
 
 # Date: March 20
 
@@ -150,7 +150,7 @@ Once we have analyzed the data and established the correlation, we plan to test 
 
 <img src="images/training_truncated.png" alt="Image description" width="20%" height="20%">
 
-*This is a truncated image of our training data.
+*Truncated image of our training data.*
 
 
 # Date: March 21
@@ -169,7 +169,7 @@ As a result, the team has decided to move forward with the project without incor
 
 
 <img src="images/pressure_sensor.png" alt="Image description" width="40%" height="40%">
-Image of our sensor
+*Pressure sensor we are using*
 
 
 # Date: March 21
@@ -185,6 +185,8 @@ The calculator performed the regression analysis for us, determining the best-fi
 With the linear relationship now calculated using the SocialStatistics Linear Regression Calculator, we are well-equipped to move forward with the calibration of our MQ-3 breathalyzer system. We will soon test its effectiveness during a secondary testing party, which will allow us to assess the accuracy and reliability of the linear relationship we've established and make any necessary adjustments to our system.
 
 <img src="images/regression.png" alt="Image description" width="30%" height="30%">
+*Output from linear regression calculator*
+
 
 # Date: March 22
 
@@ -196,7 +198,7 @@ Next, we compared the estimated BAC levels from our MQ-3 breathalyzer system wit
 
 <img src="images/testing_truncated.png" alt="Image description" width="20%" height="20%">
 
-This is a truncated image of our testing data.
+*Truncated image of our testing data*
 
 # Date: March 23
 
@@ -205,6 +207,7 @@ Today marks an exciting milestone for our project, as the PCB we ordered has fin
 To streamline the soldering process and make it as efficient as possible, I took the initiative to carefully separate and organize the resistors and capacitors. By sorting them according to their values and clearly labeling each group, I made it easy for my partners to quickly identify and locate the correct components during the soldering process. This organization will not only save time but also minimize the risk of errors that may result from using incorrect components.
 
 <img src="images/pcb_larger_arrived.png" alt="Image description" width="50%" height="50%">
+*New, printed PCB*
 
 
 
