@@ -274,4 +274,11 @@ After a recent team discussion, we concluded that it would be prudent to create 
 
 *Layout for dev board PCB*
 
+# Date: April 8
+Journal Entry:
 
+Today we received the dev board PCB, which we designed as a backup solution for our system. Having this backup PCB in hand provides us with a sense of security and reassurance, knowing that we have a reliable fallback option in case we encounter any issues with our primary system.
+
+Upon inspecting the dev board PCB, we were pleased to find that the fabrication process had been completed accurately and without any visible flaws. The board's layout, component footprints, and routing all appeared to be in line with our design, giving us confidence in the quality and functionality of the backup solution.
+
+In the coming days, we will proceed with the soldering of the dev board PCB.
