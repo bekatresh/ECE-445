@@ -282,3 +282,6 @@ Today we received the dev board PCB, which we designed as a backup solution for 
 Upon inspecting the dev board PCB, we were pleased to find that the fabrication process had been completed accurately and without any visible flaws. The board's layout, component footprints, and routing all appeared to be in line with our design, giving us confidence in the quality and functionality of the backup solution.
 
 In the coming days, we will proceed with the soldering of the dev board PCB.
+
+![](images/dev_pcb_print.png)
+
