@@ -283,5 +283,4 @@ Upon inspecting the dev board PCB, we were pleased to find that the fabrication 
 
 In the coming days, we will proceed with the soldering of the dev board PCB.
 
-![](images/dev_pcb_print.png)
-
+<img src="images/dev_pcb_print.png" alt="Image description" width="50%" height="50%">
