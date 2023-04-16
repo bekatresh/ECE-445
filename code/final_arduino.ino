@@ -81,7 +81,7 @@ void loop() {
       rfidContent.concat(String(rfid.uid.uidByte[i], HEX));
     }
     Serial.println();
-    Serial.println("Please wait 3 seconds before starting the breathalyzer exam");
+    Serial.println("Starting test");
      for (int i = 0; i < 4; i++) {
         digitalWrite(LED_PIN, LOW);
         delay(500);
@@ -140,6 +140,7 @@ void loop() {
       }
       http.end();
 
+    Serial.println("Done with test");
       
     for (int i = 0; i < 15; i++) {
       delay(1000);
