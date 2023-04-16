@@ -12,7 +12,7 @@
 
 const char* ssid = "esp";
 const char* password = "tennisrules";
-const char* host = "172.20.10.4";
+const char* host = "172.20.10.2";
 const int port = 5000;
 
 MFRC522 rfid(SS_PIN, RST_PIN); // create an instance of the MFRC522 object
@@ -101,27 +101,21 @@ void loop() {
             middle4Sum += sensorValue; // add sensor data to middle 4 sum
             middle4Count++; // increment middle 4 count
         }
-        Serial.print(sensorValue); // print the sensor value to the serial monitor
-        Serial.print(", ");
     }
     Serial.println();
-    
     // Calculate the average of the middle 4 seconds
     int average = middle4Sum / middle4Count;
-    
+    if (average<150){ average = average/3; }
     // Print the calculated average
     Serial.print("Average: ");
     Serial.println(average);
 
-
-
-
-    
     digitalWrite(LED_PIN, HIGH);
     Serial.println();
     Serial.print("JSON output: [\"");
     Serial.print(rfidContent);
     Serial.print("\", ");
+    Serial.print(average);
     Serial.println("]");
     
     DynamicJsonDocument doc(1024);
@@ -146,7 +140,6 @@ void loop() {
       }
       http.end();
 
-    
       
     for (int i = 0; i < 15; i++) {
       delay(1000);
