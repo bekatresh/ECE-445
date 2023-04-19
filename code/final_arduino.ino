@@ -146,10 +146,10 @@ void loop() {
       delay(1000);
  
     }
+  }
+
      rfid.PICC_HaltA();
      rfid.PCD_StopCrypto1();
-  }
-  
  
   delay(1000); // wait for 1 second before reading the sensor again
 }
