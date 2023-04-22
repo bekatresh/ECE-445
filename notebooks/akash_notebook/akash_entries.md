@@ -2,6 +2,7 @@
 # ECE 445
 
 # Date: January 29
+
 For the TipsyTracker Project Proposal, our group worked together closely to develop the block diagram that included the RFID subsystem, Breathalyzer measurement subsystem, and Data management subsystem. We had multiple brainstorming sessions where we shared our ideas, discussed the feasibility of different approaches, and evaluated the pros and cons of each subsystem.
 
 We all shared our expertise and worked together to ensure that the different subsystems complemented each other and functioned effectively in the overall system. Each team member had a specific role to play, and we ensured that everyone had a clear understanding of their responsibilities.
@@ -11,6 +12,7 @@ We all shared our expertise and worked together to ensure that the different sub
 
 
 # Date: February 1
+
 Our group identified the problem of irresponsible drinking, which is a common issue, especially among university students, that leads to significant negative consequences, including deaths caused by excessive alcohol consumption. Our solution, TipsyTracker, is a comprehensive system that employs RFID-enabled wristbands/cards, breathalyzer devices, a Raspberry Pi server, and an ESP32 microcontroller to measure the blood alcohol content (BAC) levels of partygoers/patrons and encourage responsible drinking habits. TipsyTracker notifies guests about their BAC levels and sends reminders to them to check their levels, as well as alerts the host if a guest's BAC level exceeds a predetermined limit.
 
 I specifically worked on identifying two subsystems. The Breathalyzer Measurement Subsystem, which involves the MQ-3 sensor, is responsible for measuring the BAC levels of partygoers/patrons by using a breathalyzer device. It is connected to the ESP32 microcontroller and communicates with the RFID identification subsystem to ensure that the test results are associated with the correct partygoer/patron. The Data Management Subsystem, powered by the Raspberry Pi server, is responsible for handling the communication between the device and the registration station and sending notifications to partygoers/patrons and the host. It hosts the necessary software and databases, handles data storage, analysis, and management, and sends reminders to partygoers/patrons at set intervals to test their BAC levels and notifies the host if necessary.
@@ -114,6 +116,7 @@ The successful implementation of the revamped Python code was a significant acco
 
 
 # Date: March 6
+
 We discussed the plan for soldering the PCB, as well as went over my Arduino and Python code. This was an important step in the development process as it allowed us to prepare for the manufacturing phase and ensure that the code was properly reviewed and tested.
 
 We also organized all of the components that were ordered for the PCB, ensuring that they were properly labeled and stored for easy access during the manufacturing process. This helped to streamline the process of assembling the PCB and reduce the risk of errors during manufacturing.
@@ -143,9 +146,11 @@ Once the design was finalized, I exported the Gerber files and shared them with 
 
 
 # Date: March 10
+
 We took an essential step forward in our project by ordering the newly redesigned PCB with through-hole resistors and capacitors. After reviewing the updated Gerber files and ensuring that all necessary adjustments had been made to accommodate the through-hole components, we felt confident in proceeding with the order. Overall, our team is eager to receive the new PCBs and begin the next phase of our project. We are optimistic that the redesign will make a positive impact on the ease of assembly and the performance of the final product.
 
 # Date: March 14
+
 Today, our team held a productive meeting to discuss the Design Document and address any potential limitations in our project. Alongside our TA, we examined various aspects of our design and explored ways to improve the overall functionality and performance of the final product.
 
 During the discussion, we came up with the idea of incorporating a pressure sensor into our design in order to determine if a user is actually breathing into the breathalyzer. We discussed different ways of incporating it, and my team decided to conduct numerous tests in the future to determine the capability.
@@ -275,6 +280,7 @@ After a recent team discussion, we concluded that it would be prudent to create 
 *Layout for dev board PCB*
 
 # Date: April 8
+
 Today we received the dev board PCB, which we designed as a backup solution for our system. Having this backup PCB in hand provides us with a sense of security and reassurance, knowing that we have a reliable fallback option in case we encounter any issues with our primary system.
 
 Upon inspecting the dev board PCB, we were pleased to find that the fabrication process had been completed accurately and without any visible flaws. The board's layout, component footprints, and routing all appeared to be in line with our design, giving us confidence in the quality and functionality of the backup solution.
@@ -286,10 +292,34 @@ In the coming days, we will proceed with the soldering of the dev board PCB.
 *Printed dev board PCB*
 
 # Date: April 10
+
 Today, our team successfully soldered the dev board PCB, our backup solution for the breathalyzer system. We gathered, reviewed the schematic and layout, and soldered the PCB together. We then tested to make sure the PCB worked, which it did. We also began discussing the 3D-enclosure for the dev-board pcb.
 
 <img src="images/soldered_pcb_dev.png" alt="Image description" width="50%" height="50%">
 
 *Soldered dev board PCB*
 
+# Date: April 15
 
+Today, our team gathered to practice for the upcoming mock demo of our breathalyzer system. This rehearsal allowed us to refine our presentation skills, ensure a smooth delivery of information, and identify any areas for improvement before the actual demo. During the practice session, each team member took turns presenting their respective sections, focusing on conveying the key features and benefits of our TipsyTracker system in a clear and concise manner. We also made sure to address any potential questions or concerns that may arise during the demo.
+
+After each presentation, we provided constructive feedback to one another, discussing ways to enhance the clarity, flow, and overall effectiveness of our delivery. This collaborative approach helped us fine-tune our presentation, boosting our confidence and ensuring that we are well-prepared for the mock demo.
+
+# Date: April 18
+During our mock demo of the breathalyzer system at the ECEB, we encountered an unexpected challenge: the lack of access to data in the building. This limitation presented a potential obstacle for our presentation, as we needed to demonstrate the system's data communication and processing capabilities. We also found issues in our RFID sensor, leading us to re-order the part to resolder the system.
+
+# Date: April 19
+
+I came up with a solution to address the data access issue we encountered during our mock demo at the ECEB. I proposed that the ESP32 could create a local area network (LAN) to facilitate communication between itself, the Raspberry Pi, and the computer. This would allow us to demonstrate the breathalyzer system's data communication capabilities without relying on external internet access.
+
+However, we acknowledged that this solution would not enable the Raspberry Pi to send notifications during the demo. To overcome this limitation, we decided to film a video before the demo, showcasing the communication system in action and demonstrating that the notification feature works as intended. This video will provide valuable evidence of our breathalyzer system's functionality and help compensate for any limitations during the live demo.
+
+In addition to addressing the data access issue, we also received the new RFID component and proceeded to re-solder it onto our PCB. This update ensures that our breathalyzer system is fully equipped and prepared for the upcoming demo presentation.
+
+# Date: April 22
+
+Today, our team gathered for a meeting with the primary goal of filming all the notification features of our breathalyzer system. We wanted to create a comprehensive video that demonstrates the complete functionality of our communication system, including sending notifications to users and hosts, which will be shown during the demo presentation.
+
+During the meeting, we made sure to set up the breathalyzer system and connect all the necessary components, ensuring that everything was working as intended. Each team member played a role in the filming process, from operating the breathalyzer system to recording the notifications on various devices.
+
+We carefully filmed each notification feature, showcasing the seamless communication between the breathalyzer system, the Raspberry Pi, and the users' devices. This video will not only serve as evidence of the system's full capabilities but also provide a clear understanding of how the communication system works for the audience during the demo.
