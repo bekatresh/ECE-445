@@ -288,4 +288,8 @@ In the coming days, we will proceed with the soldering of the dev board PCB.
 # Date: April 10
 Today, our team successfully soldered the dev board PCB, our backup solution for the breathalyzer system. We gathered, reviewed the schematic and layout, and soldered the PCB together. We then tested to make sure the PCB worked, which it did. We also began discussing the 3D-enclosure for the dev-board pcb.
 
+<img src="images/soldered_pcb_dev.png" alt="Image description" width="50%" height="50%">
+
+*Soldered dev board PCB*
+
 
