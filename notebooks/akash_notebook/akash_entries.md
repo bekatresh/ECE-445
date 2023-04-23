@@ -323,3 +323,19 @@ Today, our team gathered for a meeting with the primary goal of filming all the 
 During the meeting, we made sure to set up the breathalyzer system and connect all the necessary components, ensuring that everything was working as intended. Each team member played a role in the filming process, from operating the breathalyzer system to recording the notifications on various devices.
 
 We carefully filmed each notification feature, showcasing the seamless communication between the breathalyzer system, the Raspberry Pi, and the users' devices. This video will not only serve as evidence of the system's full capabilities but also provide a clear understanding of how the communication system works for the audience during the demo.
+
+# Date: April 23
+
+I spent time editing a video that showcases the notification features of our TipsyTracker device. The objective was to create a visually engaging and informative presentation that clearly demonstrates how the device alerts partygoers and hosts about their blood alcohol content levels. Once the editing was complete, I shared the video with the team for their feedback and made necessary adjustments based on their input. The final product effectively showcases the TipsyTracker's notification system, highlighting its value in promoting responsible drinking and ensuring a safe and enjoyable party experience for all.
+
+
+<img src="images/notification_title.png" alt="Image description" width="50%" height="50%">
+
+*Video Thumbnail*
+
+In addition, our team gathered for one final practice demo of our TipsyTracker device. During the practice run, we simulated a live demo, setting up the device and walking through its operation. We also practiced handling potential questions or concerns from the audience, preparing ourselves for any inquiries that may arise during the actual presentation.
+
+
+
+
+
