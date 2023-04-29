@@ -351,9 +351,13 @@ Today, our team made significant progress on our TipsyTracker project. After ref
 # References
 
 [1] “Development boards | ESPRESSIF systems.” [Online]. Available: https://www.espressif.com/en/products/devkits. [Accessed: 26-Mar-2023].
+
 [2] “IEEE code of Ethics.” [Online]. Available: https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/corporate/ieee-code-of-ethics.pdf.
+
 [3] “Power supply ESP32 module - Espressif.” [Online]. Available: https://dl.espressif.com/dl/schematics/esp32_devkitc_v4-sch.pdf. [Accessed: 26-Mar-2023].
+
 [4] “RF Wireless World,” ESP32 Arduino Interfacing with Gas sensor diagram, working, code. [Online]. Available: https://www.rfwireless-world.com/ApplicationNotes/ESP32-interfacing-with-Gas-sensor.html. [Accessed: 26-Mar-2023].
+
 [5] Xukyo, “Using an RFID module with an ESP32 • aranacorp,” AranaCorp, 03-May-2021. [Online]. Available: https://www.aranacorp.com/en/using-an-rfid-module-with-an-esp32/. [Accessed: 26-Mar-2023].
 
 
