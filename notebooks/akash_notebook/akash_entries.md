@@ -320,6 +320,11 @@ However, we acknowledged that this solution would not enable the Raspberry Pi to
 
 In addition to addressing the data access issue, we also received the new RFID component and proceeded to re-solder it onto our PCB. This update ensures that our breathalyzer system is fully equipped and prepared for the upcoming demo presentation.
 
+![](images/new_lan_setup.png)
+
+*LAN Networking Diagram*
+
+
 # Date: April 22
 
 Today, our team gathered for a meeting with the primary goal of filming all the notification features of our breathalyzer system. We wanted to create a comprehensive video that demonstrates the complete functionality of our communication system, including sending notifications to users and hosts, which will be shown during the demo presentation.
