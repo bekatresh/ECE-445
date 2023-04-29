@@ -99,6 +99,10 @@ The successful implementation of the Arduino code for the MQ-3 and RFID sensors,
 
 *Compilation of arduino code*
 
+![](images/data_table.png)
+
+*Test Cases demonstraitng successful sending of data from ESP32 to the Raspberry Pi* 
+
 # Date: March 5
 
 I revamped the Python code to incorporate a web portal that allows for adding entries, viewing user history, and sending text messages about the BAC levels using Twilio. This was a crucial step in the development process as it allowed us to test the functionality of the web portal and ensure that it was operating as intended.
