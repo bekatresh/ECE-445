@@ -335,6 +335,28 @@ I spent time editing a video that showcases the notification features of our Tip
 
 In addition, our team gathered for one final practice demo of our TipsyTracker device. During the practice run, we simulated a live demo, setting up the device and walking through its operation. We also practiced handling potential questions or concerns from the audience, preparing ourselves for any inquiries that may arise during the actual presentation.
 
+# Date: April 26
+
+Today marked a significant milestone for our team, as we conducted the final demo of our TipsyTracker device. It was a moment of excitement, as we showcased the fruits of our hard work and dedication. The demonstration went exceptionally well, with all subsystems functioning seamlessly together. Each team member confidently presented their respective components, highlighting the unique features and benefits of the TipsyTracker. We also provided a live demonstration of the device in action, accurately measuring BAC levels and successfully utilizing the RFID technology for guest identification.
+
+# Date April 27
+
+Today, our team convened to work on our presentation in preparation for the upcoming mock presentation. This meeting was essential to ensure that we effectively communicated the key aspects of our TipsyTracker device and to fine-tune our delivery before presenting it in a more formal setting.
+
+# Date April 29
+Today, our team made significant progress on our TipsyTracker project. After refining the presentation based on our practice sessions and team feedback, we turned our attention to the final design document, which will serve as a comprehensive record of our project's development journey.
+
+
+
+# References
+
+[1] “Development boards | ESPRESSIF systems.” [Online]. Available: https://www.espressif.com/en/products/devkits. [Accessed: 26-Mar-2023].
+[2] “IEEE code of Ethics.” [Online]. Available: https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/corporate/ieee-code-of-ethics.pdf.
+[3] “Power supply ESP32 module - Espressif.” [Online]. Available: https://dl.espressif.com/dl/schematics/esp32_devkitc_v4-sch.pdf. [Accessed: 26-Mar-2023].
+[4] “RF Wireless World,” ESP32 Arduino Interfacing with Gas sensor diagram, working, code. [Online]. Available: https://www.rfwireless-world.com/ApplicationNotes/ESP32-interfacing-with-Gas-sensor.html. [Accessed: 26-Mar-2023].
+[5] Xukyo, “Using an RFID module with an ESP32 • aranacorp,” AranaCorp, 03-May-2021. [Online]. Available: https://www.aranacorp.com/en/using-an-rfid-module-with-an-esp32/. [Accessed: 26-Mar-2023].
+
+
 
 
 
