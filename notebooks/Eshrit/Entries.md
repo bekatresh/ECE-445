@@ -56,6 +56,10 @@ Headed over to the ECE lab to try and solder the first PCB since we needed to di
 
 <img width="398" alt="PCB_1_sol" src="https://user-images.githubusercontent.com/117782788/236102471-0a3ba6e1-1db4-4faa-8fe8-80c9480733c7.png">
 
+# Date: March 14th
+
+We held a discussion with our TA and went over the feasibility of including a pressure sensor into our project. This was an idea we came back to as mentioned earlier so that the breath tests actually detect air from the lungs for BAC level checks rather than a user who can essentially cheat the breath test. We also briefly went over the design document and any other issues surrounding tipsy tracker and or how we can improve tipsy tracker. This is actually what brought back up the incorporation of a pressure sensor. The TA was for the inclusion of the pressure sensor and after the meeting Akash, Sumedh and I began our research regarding the pressure sensor that I had soldered earlier and how it would fit in with the other subsystems. 
+
 
 
 
