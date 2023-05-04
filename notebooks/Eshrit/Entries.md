@@ -120,7 +120,7 @@ We soldered 90% of the board adding the other components to the PCB and the sens
 
 # Date: March 28
 
-We held a brief team discussion about the feasibility of soldering and just the project in general with our TA Dushyant.
+We held a brief team discussion about the feasibility of soldering and just the project in general with our TA Dushyant. During our meeting, we shared valuable tips and tricks, and brainstormed potential solutions to enhance our soldering process. Some of the suggestions included investing in high-quality soldering equipment like a soldering station with temperature control and a hot air rework station for surface-mount components. We also considered attending workshops or classes to further develop our soldering skills.
 
 
 
