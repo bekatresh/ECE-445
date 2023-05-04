@@ -50,9 +50,16 @@ Went over the setup of the website where users can register their information an
 
 # Date: March 7th 
 
-Headed over to the ECE lab to try and solder the first PCB since we needed to discuss the feasibility of soldering given some of the components were too small (0402 resistors, the diodes and capacitors). The soldering irons in the general area had tips that were too wide but in the special area with the finer soldering tips and the hot air I was able to solder the smaller components much more easily although it was still difficult. We then discussed problems even if I was able to get the components on. We could foresee some bridging issues due to the PCB having components that were too close and the components not having enough solder. We then moved to a newer PCB design which would incorporate through hole components.
+Headed over to the ECE lab to try and solder the first PCB since we needed to discuss the feasibility of soldering given some of the components were too small (0402 resistors, the diodes and capacitors). The soldering irons in the general area had tips that were too wide but in the special area with the finer soldering tips and the hot air I was able to solder the smaller components much more easily although it was still difficult. We then discussed problems even if I was able to get the components on. We could foresee some bridging issues due to the PCB having components that were too close and the components not having enough solder. We then moved to a newer PCB design which would incorporate through hole components. Below is are the images of the PCB and the PCB with some components soldered.
 
 <img width="398" alt="PCB_1" src="https://user-images.githubusercontent.com/117782788/236100725-d1af80fe-4401-4d51-9d6e-44707d15eaa0.png">
+
+<img width="351" alt="PCB_1_sol" src="https://user-images.githubusercontent.com/117782788/236102471-0a3ba6e1-1db4-4faa-8fe8-80c9480733c7.png">
+
+
+
+
+
 
 
 
