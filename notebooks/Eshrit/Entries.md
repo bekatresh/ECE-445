@@ -114,7 +114,7 @@ Today we headed to the lab to knock off the soldering off some components. We we
 
 # Date: March 25
 
-We soldered 90% of the board adding the other components to the PCB and the sensors. Some surface mount components and a couple other components remained to be soldered. The USB to UART component used to program the microcontroller was almost impossible to solder. The replacement component could not be incorporated into our schematic. 
+We soldered 90% of the board adding the other components to the PCB and the sensors. Some surface mount components and a couple other components remained to be soldered. The USB to UART component used to program the microcontroller was almost impossible to solder. The replacement component could not be incorporated into our schematic. The image below shows a failed soldering attempt at U2.
 
 <img width="449" alt="Screen Shot 2023-05-04 at 12 28 10 PM" src="https://user-images.githubusercontent.com/117782788/236282395-e68930b3-49a5-43ae-9718-8331c41e3c16.png">
 
