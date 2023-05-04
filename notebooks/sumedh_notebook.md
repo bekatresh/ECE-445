@@ -38,6 +38,15 @@ During the meeting, each team member shared their thoughts and ideas, fostering 
 
 As the discussion progressed, we began to develop a list of action items and assigned responsibilities to each team member. The meeting concluded with a renewed sense of enthusiasm and determination to tackle the challenges that lay ahead. It was an enlightening and inspiring discussion that provided valuable insights for our project's future development.
 
+
+# Date: March 20th:
+
+On March 20th, we hosted the first of two parties designed to gather training data for our project. We invited ten friends over to participate, ensuring that they were aware of the purpose of the gathering.
+
+We carefully planned the event to create a relaxed and enjoyable atmosphere while still adhering to our data collection objectives. We provided a variety of beverages and snacks, as well as games and activities to keep the participants engaged. Throughout the evening, we explained the importance of accurate and consistent data for the success of our project, emphasizing the role each person played in this process.
+
+As the participants consumed alcohol, we had them blow into our Arduino-based sensor and a commercial breathalyzer at regular intervals. We took detailed notes on the readings from both devices, as well as any contextual factors that could potentially influence the results, such as the type and quantity of alcohol consumed and the duration between drinks. This allowed us to collect valuable data to refine our device and algorithms, while also gaining insights into the real-world conditions under which our device would be used.
+
 # Date: March 21st:
 
 During our meeting on March 21st, we delved deeper into the topic of making the pressure sensor work effectively. We began by conducting a comprehensive review of the available literature on pressure sensors and their applications. This research helped us better understand the underlying principles and technologies that govern the functioning of these sensors. Armed with this knowledge, we felt more confident in our ability to identify and address potential issues.
@@ -46,3 +55,20 @@ Several ideas were proposed during the meeting, including placing a cloth in fro
 
 We also discussed the possibility of determining if someone was breathing through the breathalyzer by analyzing the fluctuations in the MQ-3 sensor values. This led to a broader conversation about data analysis techniques, and we considered incorporating additional sensors or algorithms to enhance the accuracy of our device. The discussion was productive and led to a deeper understanding of the pressure sensor and its potential applications. By the end of the meeting, we had developed a clear plan of action for improving the performance of our pressure sensor and were eager to begin implementing the proposed solutions.
 
+# Date: March 22nd:
+
+Two days later, on March 22nd, we hosted a second party, this time focusing on collecting testing data. Once again, ten friends attended and drank alcohol. We used the feedback and observations from the first party to make improvements to our data collection process, ensuring a smoother and more efficient experience for everyone involved.
+
+Just like the first party, we carefully monitored the alcohol consumption of our participants and had them blow into our Arduino sensor and a breathalyzer at regular intervals. We continued to document the readings from both devices, along with any relevant contextual information. The data gathered from this event would prove crucial in assessing the accuracy and reliability of our device. By comparing the results from both parties, we hoped to identify any patterns or discrepancies that could help us further refine our system.
+
+# Date: March 23rd - 25th:
+
+From March 23rd to 25th, Sumedh and Eshrith, another friend of mine, took on the task of soldering the second version of our PCB (printed circuit board). They began by reviewing the schematic and layout diagrams, making sure they understood the function and location of each component. They also took the time to research any unfamiliar components or techniques, ensuring they were well-prepared for the task at hand.
+
+Despite their best efforts, they faced numerous challenges in achieving the precision and accuracy required to solder the intricate components of the PCB. This experience emphasized the importance of refining our soldering skills and investing in better equipment. After several attempts and numerous revisions, they finally managed to complete the PCB assembly. Their perseverance and determination were a testament to the passion and commitment shared by our entire team.
+
+# Date: March 28th:
+
+On the 28th of March, we had a brief meeting to discuss the difficulties encountered during our PCB soldering attempts. We shared tips and tricks, and brainstormed potential solutions to improve our soldering process. Some of the suggestions included investing in higher-quality soldering equipment, such as a soldering station with temperature control and a hot air rework station for surface-mount components. We also discussed the possibility of attending workshops or classes to further develop our soldering skills.
+
+Although the discussion was short, it served as a reminder of the importance of communication and collaboration in overcoming obstacles and achieving our goals. By pooling our collective knowledge and experiences, we were better equipped to address the challenges that arose during the project. As we moved forward, we continued to support and learn from one another, confident in our ability to bring our innovative idea to life.
