@@ -146,6 +146,9 @@ After soldering, we conducted rigorous testing to ensure that the PCB was functi
 
 # Date: April 15
 
+With our Mock Demo coming up, our team held a meeting to prepare for it. We were advised by our TA to have the mock demo be as similar to the real demo as possible and we took this advice fairly seriously. We prepared a skit according to how it would be best to deliver our product to an audience guiding them through various test cases and enacting real life use cases. By conducting a practice session, we were able to refine our presentation skills, ensuring a smooth delivery of information and identifying any areas that needed improvement prior to the actual demonstration. During the rehearsal, each team member took turns presenting their respective portions of the TipsyTracker project, with a focus on clearly and concisely conveying the system's key attributes and advantages while also addressing potential inquiries or concerns.
+Following each presentation, we provided constructive feedback to one another, discussing ways to improve the clarity, flow, and overall effectiveness of our delivery. This collaborative approach helped us fine-tune our presentation, boosting our confidence and ensuring that we were well-prepared for the upcoming mock demonstration.
+
 
 
 
