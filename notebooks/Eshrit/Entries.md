@@ -92,6 +92,13 @@ Reasons of failure:
 As a result we decided to move forward with the project without the inclusion of a pressure sensor.
 
 
+# Date: March 22
+
+Today we conducted the second of the two events that we plannedto help with getting accurate BAC level measurements from the Tipsy Tracker device. We would now be assessing the precision and accuracy of our calibrated system by comparing BAC level approximations with the BAC level readings from the commercial breathalyzer.
+We again invited ten of our friends and conducted a series of tests during which each participant tested their BAC levels using Tipsy Tracker's breathalyzer and the commercial breathalyzer throughout the course of the event. Using this data we compounded it with the data gathered from the first event and looked for any obvious patterns or some sort of linear relationship between the two sensors and the two events. We then tried to figure out how we can map the arduino values to the model values keeping into account what the True BAC levels observed from the commerical breathalyzer showed. Below is the truncated image of our model data and how dissimilar it is from the true data.
+
+
+<img width="363" alt="Screen Shot 2023-05-04 at 11 56 21 AM" src="https://user-images.githubusercontent.com/117782788/236273246-7b6c2e88-cce2-401b-a485-8271d9adb094.png">
 
 
 
