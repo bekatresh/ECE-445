@@ -48,7 +48,10 @@ Conducted a successful design review presentation where my teammates and I went 
 
 # Date: March 1st
 
-I picked up the the pressure sensor component and soldered it so that for our next team meeting, we can breadboard it and test to see if it works as expected before we proceed with the manafacturing process.
+I picked up the the pressure sensor component and soldered it so that for our next team meeting, we can breadboard it and test to see if it works as expected before we proceed with the manafacturing process. Below is a picture of the pressure sensor we would be expermenting with.
+
+<img width="495" alt="Screen Shot 2023-05-03 at 10 31 08 PM" src="https://user-images.githubusercontent.com/117782788/236106861-41236938-19de-4897-b9a6-d7d6e8734c9f.png">
+
 
 # Date: March 6th
 
@@ -65,7 +68,7 @@ Headed over to the ECE lab to try and solder the first PCB since we needed to di
 
 # Date: March 14th
 
-We held a discussion with our TA and went over the feasibility of including a pressure sensor into our project. This was an idea we came back to as mentioned earlier so that the breath tests actually detect air from the lungs for BAC level checks rather than a user who can essentially cheat the breath test. We also briefly went over the design document and any other issues surrounding tipsy tracker and or how we can improve tipsy tracker. This is actually what brought back up the incorporation of a pressure sensor. The TA was for the inclusion of the pressure sensor and after the meeting Akash, Sumedh and I began our research regarding the pressure sensor that I had soldered earlier and how it would fit in with the other subsystems. 
+We held a discussion with our TA and went over the feasibility of including the earlier discussed pressure sensor into our project. This was an idea we came back to as mentioned earlier so that the breath tests actually detect air from the lungs for BAC level checks rather than a user who can essentially cheat the breath test. We also briefly went over the design document and any other issues surrounding tipsy tracker and or how we can improve tipsy tracker. This is actually what brought back up the incorporation of a pressure sensor. The TA was for the inclusion of the pressure sensor and after the meeting Akash, Sumedh and I began our research regarding the pressure sensor that I had soldered earlier and how it would fit in with the other subsystems. 
 
 
 
