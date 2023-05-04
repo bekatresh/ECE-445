@@ -112,5 +112,12 @@ Today we headed to the lab to knock off the soldering off some components. We we
 
 <img width="307" alt="Screen Shot 2023-05-04 at 12 25 24 PM" src="https://user-images.githubusercontent.com/117782788/236281801-b2cb924a-3e07-4f28-a6a5-39db5c31fada.png">
 
+# Date: March 25
+
+We soldered 90% of the board adding the other components to the PCB and the sensors.
+
+<img width="849" alt="Screen Shot 2023-05-04 at 12 28 10 PM" src="https://user-images.githubusercontent.com/117782788/236282395-e68930b3-49a5-43ae-9718-8331c41e3c16.png">
+
+
 
 
