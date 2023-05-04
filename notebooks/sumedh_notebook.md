@@ -23,3 +23,34 @@ We conducted a successful design review presentation where my teammates and I we
 
 # Date: March 6th 
 We reviewed the componetents that arrived and delegated soldering responsibilities. I suggested three possible feature improvements including a graph to visiaualize BAC levels over time, adding an RFID Tag to the PI to avoid tediously typing a number, and redesigning the PCB to allow for larger resistors and capacitors. 
+
+
+
+
+# Date: March 8th 
+Eshrith and I decided to take on a challenging task - soldering surface-mount components. We both had some experience with soldering but never had the opportunity to work with these tiny electronic components before. We gathered all the necessary tools, including a soldering iron, soldering wire, tweezers, and a magnifying glass to get a better view of the components. We spent hours practicing our technique and trying to perfect the delicate art of soldering surface-mount components. Despite encountering some difficulties, we persevered and eventually made significant progress.
+
+# Date: March14th
+I participated in a meeting to discuss a design document for an innovative project we were working on. The conversation revolved around the potential limitations of our current design, focusing primarily on the integration of a pressure sensor and parallel data streams. We brainstormed and exchanged ideas on how to address these issues while optimizing the overall performance of our device. It was an enlightening and inspiring discussion that provided valuable insights for our project's future development.
+
+
+
+
+
+# Date: March 20th:
+On March 20th, we hosted the first of two parties designed to gather training data for our project. We invited ten friends over to participate, ensuring that they were aware of the purpose of the gathering. As the participants consumed alcohol, we had them blow into our Arduino-based sensor and a commercial breathalyzer. This allowed us to collect valuable data to refine our device and algorithms.
+
+# Date: March 21st:
+During our meeting on March 21st, we delved deeper into the topic of making the pressure sensor work effectively. Several ideas were proposed, including placing a cloth in front of the breathalyzer, creating an enclosure to detect differences in pressure, and covering the pressure sensor with paper to observe changes. We also discussed the possibility of determining if someone was breathing through the breathalyzer by analyzing the fluctuations in the MQ-3 sensor values. The discussion was productive and led to a deeper understanding of the pressure sensor and its potential applications.
+
+
+
+# Date: March 22nd:
+
+Two days later, on March 22nd, we hosted a second party, this time focusing on collecting testing data. Once again, ten friends attended and drank alcohol. We repeated the process of having them blow into our Arduino sensor and a breathalyzer. The data gathered from this event would prove crucial in assessing the accuracy and reliability of our device.
+
+# Date: March 23rd - 25th:
+From March 23rd to 25th, Eshrith and I took on the task of soldering the second version of our PCB (printed circuit board). Despite their best efforts, they faced numerous challenges in achieving the precision and accuracy required to solder the intricate components of the PCB. This experience emphasized the importance of refining our soldering skills and investing in better equipment.
+
+# Date: March 28th:
+On the 28th of March, we had a brief meeting to discuss the difficulties encountered during our PCB soldering attempts. We shared tips and tricks, and brainstormed potential solutions to improve our soldering process. Although the discussion was short, it served as a reminder of the importance of communication and collaboration in overcoming obstacles and achieving our goals.
