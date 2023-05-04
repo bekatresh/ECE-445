@@ -107,8 +107,10 @@ Our team held a meeting and I picked up the newer version of the PCB which incor
 
 # Date: March 24
 
-Today we headed to the lab to knock off the soldering off some components
+Today we headed to the lab to knock off the soldering off some components. We were able to get the microcontroller soldered using the low temp solder and hot air. Once the microcontroller stabilized we added some more soldered using the fine tip soldering iron on each connection and it was verified by a TA as correct. 
 
+
+<img width="307" alt="Screen Shot 2023-05-04 at 12 25 24 PM" src="https://user-images.githubusercontent.com/117782788/236281801-b2cb924a-3e07-4f28-a6a5-39db5c31fada.png">
 
 
 
