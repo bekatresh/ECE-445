@@ -54,7 +54,7 @@ Headed over to the ECE lab to try and solder the first PCB since we needed to di
 
 <img width="398" alt="PCB_1" src="https://user-images.githubusercontent.com/117782788/236100725-d1af80fe-4401-4d51-9d6e-44707d15eaa0.png">
 
-<img width="351" alt="PCB_1_sol" src="https://user-images.githubusercontent.com/117782788/236102471-0a3ba6e1-1db4-4faa-8fe8-80c9480733c7.png">
+<img width="398" alt="PCB_1_sol" src="https://user-images.githubusercontent.com/117782788/236102471-0a3ba6e1-1db4-4faa-8fe8-80c9480733c7.png">
 
 
 
