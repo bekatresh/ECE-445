@@ -144,6 +144,9 @@ After soldering, we conducted rigorous testing to ensure that the PCB was functi
 
 <img width="568" alt="Screen Shot 2023-05-04 at 2 22 07 PM" src="https://user-images.githubusercontent.com/117782788/236307810-31dc935d-3898-4b5b-88f9-91bd4f2a8ec1.png">
 
+# Date: April 15
+
+
 
 
 
