@@ -40,6 +40,8 @@ On the 7th and 8th of March, my friend Eshrith and I decided to take on a challe
 
 We set up a well-ventilated workspace and started practicing on some spare surface-mount components before moving on to the actual project. As we worked, we discovered that soldering surface-mount components required a steady hand, keen eye, and a lot of patience. We spent hours practicing our technique and trying to perfect the delicate art of soldering surface-mount components. Despite encountering some difficulties, such as accidentally lifting pads and bridging solder connections, we persevered and eventually made significant progress. By the end of our two-day soldering marathon, we had successfully completed the task and gained valuable skills that would benefit us in future projects.
 
+![](images/4.png)
+
 # Date: March 14th:
 
 On March 14th, I participated in a meeting to discuss a design document for an innovative project we were working on. The conversation revolved around the potential limitations of our current design, focusing primarily on the integration of a pressure sensor and parallel data streams. We began by reviewing the design document, carefully examining each section and noting any areas that could be improved or modified.
@@ -57,6 +59,8 @@ We carefully planned the event to create a relaxed and enjoyable atmosphere whil
 
 As the participants consumed alcohol, we had them blow into our Arduino-based sensor and a commercial breathalyzer at regular intervals. We took detailed notes on the readings from both devices, as well as any contextual factors that could potentially influence the results, such as the type and quantity of alcohol consumed and the duration between drinks. This allowed us to collect valuable data to refine our device and algorithms, while also gaining insights into the real-world conditions under which our device would be used.
 
+![](images/5.png)
+
 # Date: March 21st:
 
 During our meeting on March 21st, we delved deeper into the topic of making the pressure sensor work effectively. We began by conducting a comprehensive review of the available literature on pressure sensors and their applications. This research helped us better understand the underlying principles and technologies that govern the functioning of these sensors. Armed with this knowledge, we felt more confident in our ability to identify and address potential issues.
@@ -71,11 +75,15 @@ Two days later, on March 22nd, we hosted a second party, this time focusing on c
 
 Just like the first party, we carefully monitored the alcohol consumption of our participants and had them blow into our Arduino sensor and a breathalyzer at regular intervals. We continued to document the readings from both devices, along with any relevant contextual information. The data gathered from this event would prove crucial in assessing the accuracy and reliability of our device. By comparing the results from both parties, we hoped to identify any patterns or discrepancies that could help us further refine our system.
 
+![](images/6.png)
+
 # Date: March 23rd - 25th:
 
 From March 23rd to 25th, Sumedh and Eshrith, another friend of mine, took on the task of soldering the second version of our PCB (printed circuit board). They began by reviewing the schematic and layout diagrams, making sure they understood the function and location of each component. They also took the time to research any unfamiliar components or techniques, ensuring they were well-prepared for the task at hand.
 
 Despite their best efforts, they faced numerous challenges in achieving the precision and accuracy required to solder the intricate components of the PCB. This experience emphasized the importance of refining our soldering skills and investing in better equipment. After several attempts and numerous revisions, they finally managed to complete the PCB assembly. Their perseverance and determination were a testament to the passion and commitment shared by our entire team.
+
+![](images/7.png)
 
 # Date: March 28th:
 
@@ -84,9 +92,12 @@ On the 28th of March, we had a brief meeting to discuss the difficulties encount
 Although the discussion was short, it served as a reminder of the importance of communication and collaboration in overcoming obstacles and achieving our goals. By pooling our collective knowledge and experiences, we were better equipped to address the challenges that arose during the project. As we moved forward, we continued to support and learn from one another, confident in our ability to bring our innovative idea to life.
 
 
+
 # Date: April 4
 
 During a recent team gathering, we all agreed that developing an alternative PCB that employs the development board would be a wise course of action. This would guarantee that we have a dependable backup plan in the event that our main breathalyzer system encounters any unforeseen difficulties. This decision was made to ensure the overall success and reliability of our project, while also mitigating any risks associated with potential issues in our primary breathalyzer system.
+
+![](images/8.png)
 
 # Date: April 8
 
@@ -95,6 +106,8 @@ On this day, we received the development board PCB, which was specifically desig
 # Date: April 10
 
 Our team has successfully completed the soldering process for the development board PCB, which serves as our backup solution for the breathalyzer system. We assembled as a group, reviewed the schematic and layout diagrams, and collaboratively soldered the PCB components. We then conducted thorough testing to ensure the proper functioning of the PCB, which proved to be successful. Additionally, we initiated discussions regarding the creation of a 3D enclosure for the development board PCB.
+
+![](images/9.png)
 
 # Date: April 15
 
