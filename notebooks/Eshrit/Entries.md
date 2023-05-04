@@ -155,6 +155,10 @@ Following each presentation, we provided constructive feedback to one another, d
 The Mock demo helped us highlight very severe problems with our system. Our device is dependent on the party host setting up a hotspot connection to the device. This was not possible because the ECEB building has extremely poor cellular reception. This caused delay or the stoppage of the partygoers getting notifications about their BAC levels. The RFID subsystem also stopped working as expected, it was working erratically and then completely stopped working. We re-ordered the RFID sensor and resoldered the system.
 
 
+# Date: April 22
+
+
+
 
 
 
