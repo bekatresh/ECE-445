@@ -139,6 +139,11 @@ Today arrived the development board PCB, which was created as a backup solution 
 
 # Date: April 10
 
+We successfully finished soldering the Development board PCB. This was much easier than the other PCB designs as visible in the layout of the PCB above. Given the infeasibility of the USB to UART component in our design, it was looking like we would have to activate our backup option which was this PCB.
+After soldering, we conducted rigorous testing to ensure that the PCB was functioning as intended, and we were pleased to find that it was successful. We also began discussing the possibility of creating a 3D enclosure to house the development board PCB. Below is an image of our soldered development board PCB.
+
+<img width="568" alt="Screen Shot 2023-05-04 at 2 22 07 PM" src="https://user-images.githubusercontent.com/117782788/236307810-31dc935d-3898-4b5b-88f9-91bd4f2a8ec1.png">
+
 
 
 
