@@ -114,7 +114,7 @@ Today we headed to the lab to knock off the soldering off some components. We we
 
 # Date: March 25
 
-We soldered 90% of the board adding the other components to the PCB and the sensors. Some surface mount components and a couple other components remained to be soldered. The USB to UART component used to program the microcontroller was almost impossible to solder. 
+We soldered 90% of the board adding the other components to the PCB and the sensors. Some surface mount components and a couple other components remained to be soldered. The USB to UART component used to program the microcontroller was almost impossible to solder. The replacement component could not be incorporated into our schematic. 
 
 <img width="449" alt="Screen Shot 2023-05-04 at 12 28 10 PM" src="https://user-images.githubusercontent.com/117782788/236282395-e68930b3-49a5-43ae-9718-8331c41e3c16.png">
 
@@ -122,6 +122,15 @@ We soldered 90% of the board adding the other components to the PCB and the sens
 
 We held a brief team discussion about the feasibility of soldering and just the project in general with our TA Dushyant. During our meeting, we shared valuable tips and tricks, and brainstormed potential solutions to enhance our soldering process. Some of the suggestions included investing in high-quality soldering equipment like a soldering station with temperature control and a hot air rework station for surface-mount components. We also considered attending workshops or classes to further develop our soldering skills.
 
+
+# Date: April 4th
+
+At our recent team meeting, we collectively decided that creating an alternate PCB utilizing the development board would be an important step. This would provide us with a reliable backup plan in case any unexpected issues arise with our primary breathalyzer system, thereby ensuring the overall success and dependability of our project. This decision was made to minimize any risks associated with potential problems in our main breathalyzer system. Below is the image for the layout of the Development board PCB.
+
+<img width="521" alt="Screen Shot 2023-05-04 at 1 36 09 PM" src="https://user-images.githubusercontent.com/117782788/236297577-a36d6dfb-d76b-4d75-830d-fb6824158d40.png">
+
+
+# Date: April 8th
 
 
 
