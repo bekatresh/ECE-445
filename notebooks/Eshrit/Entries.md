@@ -71,7 +71,10 @@ Headed over to the ECE lab to try and solder the first PCB since we needed to di
 We held a discussion with our TA and went over the feasibility of including the earlier discussed pressure sensor into our project. This was an idea we came back to as mentioned earlier so that the breath tests actually detect air from the lungs for BAC level checks rather than a user who can essentially cheat the breath test. We also briefly went over the design document and any other issues surrounding tipsy tracker and or how we can improve tipsy tracker. This is actually what brought back up the incorporation of a pressure sensor. The TA was for the inclusion of the pressure sensor and after the meeting Akash, Sumedh and I began our research regarding the pressure sensor that I had soldered earlier and how it would fit in with the other subsystems. 
 
 
+# Date: March 20th
 
+Today we conducted the first of the two events that we planned to help with getting accurate BAC level measurements from the Tipsy Tracker device. We invited ten of our friends and made sure that they understood the purpose of the event. Our main objective was to gather accurate and consistent data while creating a relaxed and enjoyable atmosphere for our guests. To achieve this, we offered various snacks and beverages, games and activities to keep the participants engaged. Throughout the gathering, we emphasized the significance of the data collection process for the success of our project, stressing the role each person played in it.
+During the event, our guests consumed alcohol and blew into our Arduino-based sensor and commercial breathalyzer at regular intervals. We carefully documented the readings from both devices, along with any contextual factors that could have influenced the results, such as the type and quantity of alcohol consumed and the duration between drinks. This enabled us to obtain valuable data to refine our device and algorithms and gain insights into the real-world conditions under which our device would be used.
 
 
 
