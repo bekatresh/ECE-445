@@ -100,6 +100,15 @@ We again invited ten of our friends and conducted a series of tests during which
 
 <img width="363" alt="Screen Shot 2023-05-04 at 11 56 21 AM" src="https://user-images.githubusercontent.com/117782788/236273246-7b6c2e88-cce2-401b-a485-8271d9adb094.png">
 
+# Date: March 23
+
+Our team held a meeting and I picked up the newer version of the PCB which incorporated more spread out components and converted the surface mount components to through hole components. We also separated the components into different bags taking into account the values of resistors and capacitors to make the task of looking for components easier whilst soldering the PCB. I also printed out the schematic on paper so that while soldering I could cross-check this labeling. Below is an image of the physical board
+<img width="434" alt="Screen Shot 2023-05-04 at 12 09 13 PM" src="https://user-images.githubusercontent.com/117782788/236276420-877dacf7-49ab-4948-b2b9-37e10be906b7.png">
+
+# Date: March 24
+
+Today we headed to the lab to knock off the soldering off some components
+
 
 
 
