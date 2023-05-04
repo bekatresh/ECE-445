@@ -134,7 +134,7 @@ At our recent team meeting, we collectively decided that creating an alternate P
 
 Today arrived the development board PCB, which was created as a backup solution for our primary breathalyzer system. This alternate PCB has provided our team with a sense of reassurance and confidence as it serves as a reliable contingency plan in the event of any issues with our main system. Upon inspecting the development board PCB, we were delighted to find that it was accurately fabricated and without any visible defects. The design, component placement, and routing of the board were all in line with our original plans, instilling our trust in the quality and effectiveness of the backup solution. Over the next few days, our focus will be on soldering the components onto the development board PCB. We plan to solder this PCB soon. Below is an image of the Dev board PCB.
 
-<img width="291" alt="Screen Shot 2023-05-04 at 1 51 42 PM" src="https://user-images.githubusercontent.com/117782788/236300874-488a05ed-0ce8-43aa-8afa-c53be7968f54.png">
+<img width="369" alt="Screen Shot 2023-05-04 at 1 51 42 PM" src="https://user-images.githubusercontent.com/117782788/236300874-488a05ed-0ce8-43aa-8afa-c53be7968f54.png">
 
 
 # Date: April 10
