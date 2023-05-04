@@ -123,14 +123,21 @@ We soldered 90% of the board adding the other components to the PCB and the sens
 We held a brief team discussion about the feasibility of soldering and just the project in general with our TA Dushyant. During our meeting, we shared valuable tips and tricks, and brainstormed potential solutions to enhance our soldering process. Some of the suggestions included investing in high-quality soldering equipment like a soldering station with temperature control and a hot air rework station for surface-mount components. We also considered attending workshops or classes to further develop our soldering skills.
 
 
-# Date: April 4th
+# Date: April 4
 
 At our recent team meeting, we collectively decided that creating an alternate PCB utilizing the development board would be an important step. This would provide us with a reliable backup plan in case any unexpected issues arise with our primary breathalyzer system, thereby ensuring the overall success and dependability of our project. This decision was made to minimize any risks associated with potential problems in our main breathalyzer system. Below is the image for the layout of the Development board PCB.
 
 <img width="521" alt="Screen Shot 2023-05-04 at 1 36 09 PM" src="https://user-images.githubusercontent.com/117782788/236297577-a36d6dfb-d76b-4d75-830d-fb6824158d40.png">
 
 
-# Date: April 8th
+# Date: April 8
+
+Today arrived the development board PCB, which was created as a backup solution for our primary breathalyzer system. This alternate PCB has provided our team with a sense of reassurance and confidence as it serves as a reliable contingency plan in the event of any issues with our main system. Upon inspecting the development board PCB, we were delighted to find that it was accurately fabricated and without any visible defects. The design, component placement, and routing of the board were all in line with our original plans, instilling our trust in the quality and effectiveness of the backup solution. Over the next few days, our focus will be on soldering the components onto the development board PCB. We plan to solder this PCB soon. Below is an image of the Dev board PCB.
+
+<img width="291" alt="Screen Shot 2023-05-04 at 1 51 42 PM" src="https://user-images.githubusercontent.com/117782788/236300874-488a05ed-0ce8-43aa-8afa-c53be7968f54.png">
+
+
+# Date: April 10
 
 
 
