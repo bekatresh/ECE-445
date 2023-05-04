@@ -72,3 +72,54 @@ Despite their best efforts, they faced numerous challenges in achieving the prec
 On the 28th of March, we had a brief meeting to discuss the difficulties encountered during our PCB soldering attempts. We shared tips and tricks, and brainstormed potential solutions to improve our soldering process. Some of the suggestions included investing in higher-quality soldering equipment, such as a soldering station with temperature control and a hot air rework station for surface-mount components. We also discussed the possibility of attending workshops or classes to further develop our soldering skills.
 
 Although the discussion was short, it served as a reminder of the importance of communication and collaboration in overcoming obstacles and achieving our goals. By pooling our collective knowledge and experiences, we were better equipped to address the challenges that arose during the project. As we moved forward, we continued to support and learn from one another, confident in our ability to bring our innovative idea to life.
+
+
+# Date: April 4
+
+During a recent team gathering, we all agreed that developing an alternative PCB that employs the development board would be a wise course of action. This would guarantee that we have a dependable backup plan in the event that our main breathalyzer system encounters any unforeseen difficulties. This decision was made to ensure the overall success and reliability of our project, while also mitigating any risks associated with potential issues in our primary breathalyzer system.
+
+# Date: April 8
+
+On this day, we received the development board PCB, which was specifically designed as a backup solution for our primary breathalyzer system. Possessing this alternative PCB provides our team with a feeling of security and confidence, as it ensures that we have a viable contingency plan in the event of any problems arising with our main system. We carefully inspected the development board PCB upon its arrival and were pleased to discover that it had been fabricated accurately and without any visible defects. The board's design, component placement, and routing all seemed to be consistent with our initial plans, giving us faith in the quality and functionality of the backup solution. In the upcoming days, we will proceed with soldering the components onto the development board PCB.
+
+# Date: April 10
+
+Our team has successfully completed the soldering process for the development board PCB, which serves as our backup solution for the breathalyzer system. We assembled as a group, reviewed the schematic and layout diagrams, and collaboratively soldered the PCB components. We then conducted thorough testing to ensure the proper functioning of the PCB, which proved to be successful. Additionally, we initiated discussions regarding the creation of a 3D enclosure for the development board PCB.
+
+# Date: April 15
+
+Our team came together today to rehearse for the forthcoming mock demonstration of our breathalyzer system. This practice session allowed us to polish our presentation skills, guarantee a seamless delivery of information, and identify any areas that needed improvement before the actual demonstration. During the rehearsal, each team member took turns presenting their respective portions of the project, concentrating on clearly and concisely conveying the key attributes and advantages of our TipsyTracker system. Furthermore, we made a conscious effort to address any potential inquiries or concerns that might arise during the demonstration.
+
+After each individual's presentation, we offered one another constructive criticism, discussing methods to improve the clarity, flow, and overall effectiveness of our presentation. This collaborative approach assisted us in fine-tuning our presentation, boosting our confidence and ensuring that we were well-prepared for the mock demonstration.
+
+# Date: April 18
+
+As we conducted our mock demonstration of the breathalyzer system at the ECEB, we faced an unexpected challenge - the absence of data access within the building. This constraint posed a potential issue for our presentation since we needed to showcase our system's data communication and processing capabilities. Additionally, we discovered problems with our RFID sensor, prompting us to reorder the part and resolder the system.
+
+# Date: April 22
+
+Our team convened today with the primary objective of recording a video demonstrating all the notification features of our breathalyzer system. We aimed to create an all-encompassing video that illustrates the complete functionality of our communication system, including sending notifications to users and hosts. This video will be displayed during the demo presentation to provide the audience with a clear understanding of how the communication system operates.
+
+During the meeting, we made sure to set up the breathalyzer system and connect all the necessary components, ensuring that everything was working as intended. Each team member played a role in the filming process, from operating the breathalyzer system to recording the notifications on various devices.
+
+We meticulously filmed each notification feature, showcasing the smooth communication between the breathalyzer system, the Raspberry Pi, and the users' devices. This video will not only serve as evidence of the system's full capabilities but also provide a clear understanding of how the communication system works for the audience during the demo.
+
+# Date: April 26
+
+Today marked a significant milestone for our team as we conducted the final demo of our TipsyTracker device. The excitement was palpable as we showcased the results of our hard work and dedication. The demonstration proceeded exceptionally well, with all subsystems functioning seamlessly together. Each team member confidently presented their respective components, highlighting the unique features and benefits of the TipsyTracker. We also provided a live demonstration of the device in action, accurately measuring BAC levels and successfully utilizing the RFID technology for guest identification.
+
+# Date: April 27
+
+Our team gathered today to work on our presentation in preparation for the upcoming mock presentation. This meeting was essential to ensure that we effectively communicated the key aspects of our TipsyTracker device and to fine-tune our delivery before presenting it in a more formal setting.
+
+# Date: April 29
+
+Today, our team made significant progress on our TipsyTracker project. After refining the presentation based on our practice sessions and team feedback, we turned our attention to the final design document, which will serve as a comprehensive record of our project's development journey.
+
+# Date: May 1
+
+Today was a productive day for our TipsyTracker team, as we not only polished our presentation but also completed the final design document.
+
+We began the day by practicing our presentation, focusing on refining our delivery, timing, and transitions between sections. Each team member confidently presented their assigned portion, while the others attentively listened and provided valuable feedback. By the end of the practice session, we had significantly improved our presentation, ensuring a smooth and engaging delivery that effectively communicates the key aspects of our project.
+
+Following the presentation practice, we focused on finalizing our design document. Each team member contributed their respective sections, meticulously reviewing and proofreading the content to guarantee accuracy and clarity. As we combined the individual sections, we ensured that the document flowed seamlessly and cohesively, providing a comprehensive overview of the TipsyTracker's development process.
