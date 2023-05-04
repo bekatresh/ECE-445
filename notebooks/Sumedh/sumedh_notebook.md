@@ -2,6 +2,7 @@
 Our group has finalized the project idea over the course of the week and we began to work on the project proposal. Our primary objective was to develop a comprehensive block diagram. We identified three main subsystems: RFID, Breathalyzer, and Data Management. We shared multiple ideas to discuss their feasibility, and evaluated their pros and cons. Each team member brought their unique ideas, potential problem-solution pairs to the table, and collaborated effectively to ensure that each subsystem complemented the others and functioned well in the overall system. We made sure everyone understood their responsibilities and duties towards each other. By the end of it, we had a skeletal structure and a somewhat finished block diagram.
 
 ![](images/0.png)
+*Visual aid*
 
 # Date: February 1
 We delved further into the problem and tried to identify more issues and ideas on how to tackle them. Essentially, we thought more about expanding on the implementation of our subsystems and laid out an initial game plan, including the parts we would need and how the product we are delivering would be used in practice. We discussed the project idea on a more user-friendly level. The project would include RFID-enabled wristbands/cards, a breathalyzer, a Raspberry Pi, and a microcontroller to measure the blood alcohol content (BAC) levels of users and encourage more responsible drinking.
@@ -9,6 +10,7 @@ We delved further into the problem and tried to identify more issues and ideas o
 The TipsyTracker system would remind users to get their BAC levels checked so they can be in control of their senses on a real scale analysis. The system would alert the host if a guest's BAC levels are above a certain threshold. I carried forth discussions about the real-time use cases and issues about device liquid safety, and anticipating the problems for the device in real-time such as what would we have the device do in case of system failure, and what could cause our project to either malfunction or provide mismanaged data. Privacy is also a concern that we would have to tackle since we would be handling so much data about BAC levels.
 
 ![](images/3.png)
+*RDIF Sensor*
 
 
 
@@ -16,6 +18,7 @@ The TipsyTracker system would remind users to get their BAC levels checked so th
 We finalized the proposal and made small edits to it in accordance with the formatting of previous semesters. I assisted with finishing up the block diagram and made the high-level requirements more suitable to the overall success of our project instead of depending on the subsystem workings. We made plans of getting final inputs from the TA and making a submission for the project proposal a day before the deadline.
 
 ![](images/1.png)
+*Block Diagram*
 
 
 # Date: February 7
@@ -24,6 +27,7 @@ We had made plans to breadboard the ordered components and were able to successf
 Additionally, breadboarding the entire system helped the team to verify that all the components were correctly interconnected and that the system was working according to the expected standards. By utilizing the expertise of each team member, any problems encountered during testing were effectively addressed to ensure that the system operated as intended.
 
 ![](images/2.png)
+*Breadboard*
 
 # Date: February 20th
 We decided to work on the design document and laid out a plan on how we would use the proposal as a basis and expand on the requirements and verification of the subsystems. In the course of the discussion, we carefully reviewed the current system design, identified areas that required clarification or more development, and discussed the implementation plan. Moreover, we identified potential issues that could arise during the manufacturing process. 
@@ -41,6 +45,7 @@ On the 7th and 8th of March, my friend Eshrith and I decided to take on a challe
 We set up a well-ventilated workspace and started practicing on some spare surface-mount components before moving on to the actual project. As we worked, we discovered that soldering surface-mount components required a steady hand, keen eye, and a lot of patience. We spent hours practicing our technique and trying to perfect the delicate art of soldering surface-mount components. Despite encountering some difficulties, such as accidentally lifting pads and bridging solder connections, we persevered and eventually made significant progress. By the end of our two-day soldering marathon, we had successfully completed the task and gained valuable skills that would benefit us in future projects.
 
 ![](images/4.png)
+*PCB 1*
 
 # Date: March 14th:
 
@@ -60,6 +65,7 @@ We carefully planned the event to create a relaxed and enjoyable atmosphere whil
 As the participants consumed alcohol, we had them blow into our Arduino-based sensor and a commercial breathalyzer at regular intervals. We took detailed notes on the readings from both devices, as well as any contextual factors that could potentially influence the results, such as the type and quantity of alcohol consumed and the duration between drinks. This allowed us to collect valuable data to refine our device and algorithms, while also gaining insights into the real-world conditions under which our device would be used.
 
 ![](images/5.png)
+*Test 1*
 
 # Date: March 21st:
 
@@ -76,6 +82,7 @@ Two days later, on March 22nd, we hosted a second party, this time focusing on c
 Just like the first party, we carefully monitored the alcohol consumption of our participants and had them blow into our Arduino sensor and a breathalyzer at regular intervals. We continued to document the readings from both devices, along with any relevant contextual information. The data gathered from this event would prove crucial in assessing the accuracy and reliability of our device. By comparing the results from both parties, we hoped to identify any patterns or discrepancies that could help us further refine our system.
 
 ![](images/6.png)
+*Test 2*
 
 # Date: March 23rd - 25th:
 
@@ -84,6 +91,7 @@ From March 23rd to 25th, Sumedh and Eshrith, another friend of mine, took on the
 Despite their best efforts, they faced numerous challenges in achieving the precision and accuracy required to solder the intricate components of the PCB. This experience emphasized the importance of refining our soldering skills and investing in better equipment. After several attempts and numerous revisions, they finally managed to complete the PCB assembly. Their perseverance and determination were a testament to the passion and commitment shared by our entire team.
 
 ![](images/7.png)
+*PCB 2*
 
 # Date: March 28th:
 
@@ -98,6 +106,7 @@ Although the discussion was short, it served as a reminder of the importance of 
 During a recent team gathering, we all agreed that developing an alternative PCB that employs the development board would be a wise course of action. This would guarantee that we have a dependable backup plan in the event that our main breathalyzer system encounters any unforeseen difficulties. This decision was made to ensure the overall success and reliability of our project, while also mitigating any risks associated with potential issues in our primary breathalyzer system.
 
 ![](images/8.png)
+*PCB 3*
 
 # Date: April 8
 
