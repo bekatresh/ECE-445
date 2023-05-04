@@ -80,6 +80,17 @@ During the event, our guests consumed alcohol and blew into our Arduino-based se
 
 # Date: March 21
 
+Today was when we revisited the idea of incorporating the pressure sensor in our project. To start our discussion, we conducted an extensive literature review on pressure sensors and their practical applications. This process helped us comprehend the underlying principles and technologies that govern the functioning of these sensors, which in turn, gave us the confidence to tackle potential issues that may arise.
+In a meeting, we discussed several ideas, such as placing a cloth in front of the breathalyzer, creating an enclosure to detect differences in pressure, and covering the pressure sensor with paper to observe changes. We debated the pros and cons of each idea and took into account factors such as cost, implementation ease, and potential impact on the overall device performance.
+However each method was not feasible to warrant inclusion of a pressure sensor
+
+Reasons of failure:
+1) Cloth failure: Provided inconsistent results which made differentiating changes in blowing pressure.
+2) Enclosure to differentiate measurement of pressure: Sensor was not sensitive enough
+3) Place a paper over the pressure sensor: Paper was not stable enough during a blow into the breathalyzer.
+
+As a result we decided to move forward with the project without the inclusion of a pressure sensor.
+
 
 
 
