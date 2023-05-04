@@ -23,10 +23,10 @@ We had made plans to breadboard the ordered components and were able to successf
 
 Additionally, breadboarding the entire system helped the team to verify that all the components were correctly interconnected and that the system was working according to the expected standards. By utilizing the expertise of each team member, any problems encountered during testing were effectively addressed to ensure that the system operated as intended.
 
-![](images/.png)
+![](images/2.png)
 
 # Date: February 20th
-We decided to work on the design document and laid out a plan on how we would use the proposal as a basis and expand on the requirements and verification of the subsystems. In the course of the discussion, we carefully reviewed the current system design, identified areas that required clarification or more development, and discussed the implementation plan. Moreover, we identified potential issues that could arise during the manufacturing process. This comprehensive review
+We decided to work on the design document and laid out a plan on how we would use the proposal as a basis and expand on the requirements and verification of the subsystems. In the course of the discussion, we carefully reviewed the current system design, identified areas that required clarification or more development, and discussed the implementation plan. Moreover, we identified potential issues that could arise during the manufacturing process. 
 
 # Date: February 27th
 We conducted a successful design review presentation where my teammates and I went over our design document with the professors and some TAs. We received valuable feedback about a possible problem where our device could be provided with fake BAC values for a user when the air they blow into the breathalyzer is not generated with enough pressure so that it comes from the lungs. To tackle this issue, the professor suggested the addition of a pressure sensor, and we decided to go over the feasibility of this addition with the TA. 
