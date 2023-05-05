@@ -13,14 +13,17 @@ Today the TA gave us except for feedback on what was wrong with her block diagra
 
 # Date Feb 7th:
 All of us gathered at one apartment and opened up the bread board and all the components. We initially decided that it would be good for us to put all of the components on the bread board, working together at working design of a prototype. As we were developing a PCB we decided that we would each handle one subsystem and wire everything together while we were doing this we useed the Arduino seraeal monitor to check each sensor and see if it was working & responding as expected. We took debugging steps into account such as looking at the data sheet of manufacturer, playing with resistor values and augmenting the way in which the components were connected. Ultimately, after a few hours were able to successfully put together all the components for a project and have a working breadboard prototype of the whole project.
+
 ![](pics/3.png)
 
 # Date Feb 20th
 Today we all gathered together and sat down and brainstormed out how we would map out a design document, We decided to be an expert on one subsystem.  I had handled the breathalyzer system with Eshrit handled the RFID subsystem, and Akash handled the power subsystem. We thought carefully about some of the requirements that each subsystem would need and we decided to collaborate together and brainstormed a big list of requirements together. We also decided that since each of us would handle a sub system, it would be important for us to figure out how our individual subsystems would communicate with one another so that the overall final project would be functional. We thought a lot about the way that data was laid out as well. We also carefully thought about requirements and verifications for the project.
+
 ![](pics/MQ3.png)
 
 # Date: Feb 27th
 Today we got to present our design document to the professor for feedback. After looking at our entire system he thought the project was doable, but inquired why we chose to stick to alcohol and not also use marijuana. We explained to him the alcohol sensors are more available on the market and marijuana sensors and that typically at clubs people don’t usually use marijuana, but they drink alcohol after coming to a consensus to limit the project to just alcohol. He then identified one possible problem in the project. We used an MQ3 sensor to measure alcohol but professional grade police breathalyzers, use a pressure sensor, so someone could easily cheat the system by blowing in through their nose, and out through their mouth, avoiding the pressure detection process altogether. This could be detrimental to our project because our project relies on accurately monitoring blood alcohol levels at this point we had already designed one PCB but it’s ok. We could go ahead and re-designed the PCB to incorporate a pressure sensor the same night we went home and started researching pressure sensors and thinking about how we might be able to incorporate them into our project.
+
 ![](pics/pressure.png)
 
 
@@ -31,6 +34,7 @@ On March 14 we just started discussing the design doc and limitations. We though
 
 # Date: March 20th
 We conducted a study were 10 people came over and consumed alcohol throughout the night. We recorded there BAC values as measured by an off the shelf, breathalyzer and compared them to the analog output, values of the MQ3 sensor we collected 40 Datapoint seen in the plot below.
+
 ![](pics/5.png)
 
 
