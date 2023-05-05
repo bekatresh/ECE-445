@@ -86,9 +86,9 @@ Just like the first party, we carefully monitored the alcohol consumption of our
 
 # Date: March 23rd - 25th:
 
-From March 23rd to 25th, Sumedh and Eshrith, another friend of mine, took on the task of soldering the second version of our PCB (printed circuit board). They began by reviewing the schematic and layout diagrams, making sure they understood the function and location of each component. They also took the time to research any unfamiliar components or techniques, ensuring they were well-prepared for the task at hand.
+From March 23rd to 25th, Eshrith and I, took on the task of soldering the second version of our PCB (printed circuit board). They began by reviewing the schematic and layout diagrams, making sure they understood the function and location of each component. They also took the time to research any unfamiliar components or techniques, ensuring they were well-prepared for the task at hand.
 
-Despite their best efforts, they faced numerous challenges in achieving the precision and accuracy required to solder the intricate components of the PCB. This experience emphasized the importance of refining our soldering skills and investing in better equipment. After several attempts and numerous revisions, they finally managed to complete the PCB assembly. Their perseverance and determination were a testament to the passion and commitment shared by our entire team.
+Despite our best efforts, they faced numerous challenges in achieving the precision and accuracy required to solder the intricate components of the PCB. This experience emphasized the importance of refining our soldering skills and investing in better equipment. After several attempts and numerous revisions, they finally managed to complete the PCB assembly. Their perseverance and determination were a testament to the passion and commitment shared by our entire team.
 
 ![](images/7.png)
 *PCB 2*
@@ -148,10 +148,4 @@ Our team gathered today to work on our presentation in preparation for the upcom
 
 Today, our team made significant progress on our TipsyTracker project. After refining the presentation based on our practice sessions and team feedback, we turned our attention to the final design document, which will serve as a comprehensive record of our project's development journey.
 
-# Date: May 1
 
-Today was a productive day for our TipsyTracker team, as we not only polished our presentation but also completed the final design document.
-
-We began the day by practicing our presentation, focusing on refining our delivery, timing, and transitions between sections. Each team member confidently presented their assigned portion, while the others attentively listened and provided valuable feedback. By the end of the practice session, we had significantly improved our presentation, ensuring a smooth and engaging delivery that effectively communicates the key aspects of our project.
-
-Following the presentation practice, we focused on finalizing our design document. Each team member contributed their respective sections, meticulously reviewing and proofreading the content to guarantee accuracy and clarity. As we combined the individual sections, we ensured that the document flowed seamlessly and cohesively, providing a comprehensive overview of the TipsyTracker's development process.
