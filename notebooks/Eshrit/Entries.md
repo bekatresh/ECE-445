@@ -167,5 +167,18 @@ We meticulously recorded each notification feature, highlighting the seamless co
 
 Today we conducted our final demo showcasing the functionality of our project. The demo went off without a hitch, with all subsystems working together in perfect harmony. Each team member confidently presented their component and stuck to the script well, emphasizing the unique features and benefits of the TipsyTracker. Moreover, we provided a live demonstration of the device in action, demonstrating its ability to accurately measure BAC levels and effectively utilize RFID technology for guest identification.
 
+# Date: April 27
+
+We held a team meeting today to prepare for the Mock presentation since we did not have a lot of time between the final demo and the mock presentation. We prepared a presentation and allocated slides according to what team member would speak to what aspects of Tipsy Tracker. We also quickly went over a couple practice runs of what we would say during the presentation and the general timing structure.
+
+# Date: April 29
+
+Today's team meeting had us go over the presentation and present it to each other 2-3 more times. Each run has us revise a slide or better our delivery regarding a slide. The improvement in our presentation delivery has been evident. We also turned attention to the final design document which would serve as the last document regarding our finished project.
+
+# Date: May 1
+
+Our TipsyTracker team had a productive day where we successfully completed the final design document and polished our presentation skills. We began by practicing our presentation to refine our delivery, timing, and transitions between sections. Each team member confidently presented their portion while receiving valuable feedback from the others. This practice session resulted in a significantly improved presentation, with a smooth and engaging delivery that effectively communicated the essential aspects of our project.
+After the presentation practice, we shifted our focus to finalizing our design document. Each team member contributed their respective sections, meticulously reviewing and proofreading the content to ensure accuracy and clarity. We combined individual sections while ensuring that the document flowed cohesively and provided a comprehensive overview of the TipsyTracker's development process.
+
 
 
