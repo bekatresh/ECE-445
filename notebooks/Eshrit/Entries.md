@@ -163,7 +163,9 @@ To ensure everything worked as intended, we set up the breathalyzer system and c
 
 We meticulously recorded each notification feature, highlighting the seamless communication between the breathalyzer system, the Raspberry Pi, and the users' devices. This video not only serves as evidence of the system's full capabilities but also provides a clear understanding of how the communication system works for the audience during the demo.
 
+# Date: April 26
 
+Today we conducted our final demo showcasing the functionality of our project. The demo went off without a hitch, with all subsystems working together in perfect harmony. Each team member confidently presented their component and stuck to the script well, emphasizing the unique features and benefits of the TipsyTracker. Moreover, we provided a live demonstration of the device in action, demonstrating its ability to accurately measure BAC levels and effectively utilize RFID technology for guest identification.
 
 
 
