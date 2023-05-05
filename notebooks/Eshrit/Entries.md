@@ -157,6 +157,11 @@ The Mock demo helped us highlight very severe problems with our system. Our devi
 
 # Date: April 22
 
+Akash had briefed us on how to use the microcontroller's LAN to connect the modules to each other. However, we still had to show that the partygoers receiving notifications. Hence our team gathered to create a comprehensive video demonstrating all the notification features of our breathalyzer system. The primary objective was to showcase the complete functionality of our communication system, including sending notifications to users and hosts. This video would be presented during the demo to provide the audience with a clear understanding of how the communication system operates.
+
+To ensure everything worked as intended, we set up the breathalyzer system and connected all the necessary components during the meeting. Each team member played a role in the filming process, from operating the breathalyzer system to recording the notifications on various devices.
+
+We meticulously recorded each notification feature, highlighting the seamless communication between the breathalyzer system, the Raspberry Pi, and the users' devices. This video not only serves as evidence of the system's full capabilities but also provides a clear understanding of how the communication system works for the audience during the demo.
 
 
 
