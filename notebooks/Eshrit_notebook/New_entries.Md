@@ -125,7 +125,7 @@ We held a brief team discussion about the feasibility of soldering and just the 
 
 # Date: April 4
 
-At our recent team meeting, we collectively decided that creating an alternate PCB utilizing the development board would be an important step. This would provide us with a reliable backup plan in case any unexpected issues arise with our primary breathalyzer system, thereby ensuring the overall success and dependability of our project. This decision was made to minimize any risks associated with potential problems in our main breathalyzer system. Below is the image for the layout of the Development board PCB.
+We collectively decided that creating an alternate PCB utilizing the development board would be an important step. This would provide us with a reliable backup plan in case any unexpected issues arise with our primary breathalyzer system, thereby ensuring the overall success and dependability of our project. This decision was made to minimize any risks associated with potential problems in our main breathalyzer system. Below is the image for the layout of the Development board PCB.
 
 <img width="521" alt="Screen Shot 2023-05-04 at 1 36 09 PM" src="https://user-images.githubusercontent.com/117782788/236297577-a36d6dfb-d76b-4d75-830d-fb6824158d40.png">
 
