@@ -165,7 +165,7 @@ We meticulously recorded each notification feature, highlighting the seamless co
 
 # Date: April 26
 
-Today we conducted our final demo showcasing the functionality of our project. The demo went off without a hitch, with all subsystems working together in perfect harmony. Each team member confidently presented their component and stuck to the script well, emphasizing the unique features and benefits of the TipsyTracker. Moreover, we provided a live demonstration of the device in action, demonstrating its ability to accurately measure BAC levels and effectively utilize RFID technology for guest identification.
+Today we conducted our final demo showcasing the functionality of our project. The demo went off without a hitch, with all subsystems working together in perfect harmony. Each team member confidently presented their component and stuck to the script well, emphasizing the unique features and benefits of the TipsyTracker.
 
 # Date: April 27
 
@@ -177,8 +177,7 @@ Today's team meeting had us go over the presentation and present it to each othe
 
 # Date: May 1
 
-Our TipsyTracker team had a productive day where we successfully completed the final design document and polished our presentation skills. We began by practicing our presentation to refine our delivery, timing, and transitions between sections. Each team member confidently presented their portion while receiving valuable feedback from the others. This practice session resulted in a significantly improved presentation, with a smooth and engaging delivery that effectively communicated the essential aspects of our project.
-After the presentation practice, we shifted our focus to finalizing our design document. Each team member contributed their respective sections, meticulously reviewing and proofreading the content to ensure accuracy and clarity. We combined individual sections while ensuring that the document flowed cohesively and provided a comprehensive overview of the TipsyTracker's development process.
+We successfully completed the final design document and polished our presentation skills. We began by practicing our presentation for our final piece of the project.
 
 
 
