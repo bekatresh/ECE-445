@@ -132,7 +132,7 @@ At our recent team meeting, we collectively decided that creating an alternate P
 
 # Date: April 8
 
-Today arrived the development board PCB, which was created as a backup solution for our primary breathalyzer system. This alternate PCB has provided our team with a sense of reassurance and confidence as it serves as a reliable contingency plan in the event of any issues with our main system. Upon inspecting the development board PCB, we were delighted to find that it was accurately fabricated and without any visible defects. The design, component placement, and routing of the board were all in line with our original plans, instilling our trust in the quality and effectiveness of the backup solution. Over the next few days, our focus will be on soldering the components onto the development board PCB. We plan to solder this PCB soon. Below is an image of the Dev board PCB.
+Today arrived the development board PCB, which was created as a backup solution for our primary breathalyzer system. We will solder the component shortly.
 
 <img width="369" alt="Screen Shot 2023-05-04 at 1 51 42 PM" src="https://user-images.githubusercontent.com/117782788/236300874-488a05ed-0ce8-43aa-8afa-c53be7968f54.png">
 
@@ -147,7 +147,6 @@ After soldering, we conducted rigorous testing to ensure that the PCB was functi
 # Date: April 15
 
 With our Mock Demo coming up, our team held a meeting to prepare for it. We were advised by our TA to have the mock demo be as similar to the real demo as possible and we took this advice fairly seriously. We prepared a skit according to how it would be best to deliver our product to an audience guiding them through various test cases and enacting real life use cases. By conducting a practice session, we were able to refine our presentation skills, ensuring a smooth delivery of information and identifying any areas that needed improvement prior to the actual demonstration. During the rehearsal, each team member took turns presenting their respective portions of the TipsyTracker project, with a focus on clearly and concisely conveying the system's key attributes and advantages while also addressing potential inquiries or concerns.
-Following each presentation, we provided constructive feedback to one another, discussing ways to improve the clarity, flow, and overall effectiveness of our delivery. This collaborative approach helped us fine-tune our presentation, boosting our confidence and ensuring that we were well-prepared for the upcoming mock demonstration.
 
 
 # Date: April 18
