@@ -160,7 +160,7 @@ Akash had briefed us on how to use the microcontroller's LAN to connect the modu
 
 To ensure everything worked as intended, we set up the breathalyzer system and connected all the necessary components during the meeting. Each team member played a role in the filming process, from operating the breathalyzer system to recording the notifications on various devices.
 
-We meticulously recorded each notification feature, highlighting the seamless communication between the breathalyzer system, the Raspberry Pi, and the users' devices. This video not only serves as evidence of the system's full capabilities but also provides a clear understanding of how the communication system works for the audience during the demo.
+We then recorded the functionality of our project highlighting the test cases of getting the notifications, the device being down, BAC levels being too high for the partygoers and other such cases which we felt were crucial to display the usefulness of TipsyTracker. Although, the ECEB had no cellular reception as a team, we were able to get around this problem and of course with advice from the TA verifying our new approach, were able to get back on track.
 
 # Date: April 26
 
